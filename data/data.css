@@ -1,0 +1,33 @@
+form{
+    width: 30%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 0.5%;
+    padding-bottom: 1%;
+    background-color: rgb(255, 179, 151);
+    border-radius: 20px;
+}
+input,select{
+    padding: 0.8%;
+    background-color: aquamarine;
+    border: 1px solid red;
+    border-radius: 20px;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+h1{
+    text-align: center;
+}
+#submit{
+    width: 25%;
+    margin: auto;
+    cursor: pointer;
+}
+#submit:hover{
+    background-color: gold;
+}
