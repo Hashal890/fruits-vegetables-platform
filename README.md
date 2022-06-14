@@ -10,7 +10,7 @@ Hello everyone, we are a group of 6 members building dot & key clone in our cons
 - [Rohit Mourya](https://github.com/MrRohitMI)
 - [Gaurav Mishra](https://github.com/GauravMishra28)
 - [Udit Varshney](https://github.com/Uditshetty)
-- [Mohammad Momin]()
+- [Mohammad Momin](https://github.com/Momin-Mohammad)
 - [Swapnil Gote](https://github.com/Swwapnil123)
 
 
