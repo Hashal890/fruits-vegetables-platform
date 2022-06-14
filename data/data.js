@@ -25,3 +25,5 @@ form.addEventListener("submit", () => {
 
   location.reload();
 });
+
+console.log(data);
