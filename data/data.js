@@ -1,4 +1,4 @@
-let data = JSON.parse(localStorage.getItem("productData")) || [];
+let Data = JSON.parse(localStorage.getItem("productData")) || [];
 
 let form = document.querySelector("form");
 form.addEventListener("submit", () => {
@@ -20,10 +20,10 @@ form.addEventListener("submit", () => {
     sort: form["sort"].value,
   };
 
-  data.push(obj);
-  localStorage.setItem("productData", JSON.stringify(data));
+  Data.push(obj);
+  localStorage.setItem("productData", JSON.stringify(Data));
 
   location.reload();
 });
 
-console.log(data);
+console.log(Data);

@@ -1140,14 +1140,14 @@ let data = [
         "Dprice": "390.00",
         "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_toner_2.jpg?v=1649325377",
         "ml": "150",
-        "ins": "Dot & Key’s Cica Calming Skin Clarifying Toner blends the green goodness of Cica, Green Tea, Aloe Vera & Tea Tree with the active potency of Lactic Acid & Niacinamide. A super-gentle antidote for oily, acne-prone, sensitive skin, this alcohol-free toner heals, soothes & hydrates while lifting dirt to unclog pores & keep acne at bay. As a result, skin looks smooth, clarified, with reduced appearance of pores.
+        "ins": `Dot & Key’s Cica Calming Skin Clarifying Toner blends the green goodness of Cica, Green Tea, Aloe Vera & Tea Tree with the active potency of Lactic Acid & Niacinamide. A super-gentle antidote for oily, acne-prone, sensitive skin, this alcohol-free toner heals, soothes & hydrates while lifting dirt to unclog pores & keep acne at bay. As a result, skin looks smooth, clarified, with reduced appearance of pores.
         Alcohol-Free Toner for Oily Acne Prone skin.
         Contains Niacinamide, Cica and Green Tea.
         Mildly exfoliates to unclog pores and reduce excess oil.
         Minimizes acne & controls breakouts while fading blemishes.
         Balances pH at 4.1 to strengthen the skin barrier.
         Calms irritation, redness & sensitivity.
-        With No added synthetic fragrance",
+        With No added synthetic fragrance`,
         "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2_0792a0fd-3636-47b2-9603-313f418bf98d_360x.jpg?v=1649324874",
         "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard3_a8c0ba8d-2afb-442a-aa53-b6020c8842a2_360x.jpg?v=1649324873",
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard4_a4fb1b7d-82be-496a-987f-c0a99525e6fd_360x.jpg?v=1649324874",
@@ -4580,3 +4580,5 @@ let data = [
         "sort": ""
     }
 ]
+
+localStorage.setItem("productData",JSON.stringify(data));
