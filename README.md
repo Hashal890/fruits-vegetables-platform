@@ -2,9 +2,9 @@
 Hello everyone, we are a group of 6 members building dot & key clone in our construct week at Masai School.
 
 
-## Authors
+# Authors
 
-# Github
+### Github
 
 - [Harshal Pardeshi](https://github.com/Hashal890)
 - [Rohit Mourya](https://github.com/MrRohitMI)
@@ -14,7 +14,7 @@ Hello everyone, we are a group of 6 members building dot & key clone in our cons
 - [Swapnil Gote](https://github.com/Swwapnil123)
 
 
-# LinkdIn
+### LinkdIn
 
 - [Harshal Pardeshi](https://www.linkedin.com/in/harshalpardeshi/)
 - [Rohit Mourya]()
