@@ -3566,67 +3566,86 @@ let data = [
         "sort": "manual"
     },
     {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_c062e82b-d61b-4fce-aff4-4cd2f46c6995_720x.jpg?v=1649326625",
+        "det": "Cica & Green Tea Face Wash With Salicylic| Treats Acne & Acne Scars| Oily, Acne Prone Skin| 100% Sulphate Free| Women & Men",
+        "Mprice": "395.00",
+        "Dprice": "395.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_cleanser_7465530c-09e2-4b7b-a655-a840bc161b4e.jpg?v=1649326653",
+        "ml": "120",
+        "ins": `Dot & Key’s Cica Calming Blemish Clearing Face Wash is a gentle daily wash infused with the green goodness of Cica & Green Tea with the potency of Salicylic Acid & Zinc to help minimize acne and acne breakouts.
+        This sulphate-free cleansing gel clears away oil, dirt and impurities without stripping away natural moisture, leaving the skin clean, oil-free & fresh.
+        Deeply cleans pores to reduce excess oil & acne.
+        Balances pH at 5.5 to strengthen the skin barrier.
+        Made with Super Cica, Salicylic Acid and Green tea.
+        Has anti-inflammatory properties to calm irritation, redness & sensitivity.
+        With no added synthetic fragrance, Sulphate-free, Soap-Free.
+        For oily skin that is sensitive and acne-prone.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2_a11e9e00-d3fc-488f-8b55-c02b125cf598_360x.jpg?v=1649326624",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard3_559d33bf-d074-469b-839c-2cc484125419_360x.jpg?v=1649326624",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard4_05d36e6f-438c-44e8-b5e7-22aa16a38306_360x.jpg?v=1649326624",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard5_bb1f2ee5-84b3-45ae-ad58-d9b8ae378016_360x.jpg?v=1649326624",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_c062e82b-d61b-4fce-aff4-4cd2f46c6995_720x.jpg?v=1649326625",
+        "filter": "face-wash",
         "sort": "manual"
     },
     {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2-3_5_01e3b455-b6fb-4387-9e46-74f646430ecf_360x.jpg?v=1649159203",
+        "det": "Watermelon Super Glow Vitamin C Face Wash Gel| For Oil Control & Deep Cleansing | Combination & Oily Skin |100% Sulphate Free| Women and Men",
+        "Mprice": "395.00",
+        "Dprice": "395.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_gel__1.jpg?v=1649326883",
+        "ml": "120",
+        "ins": `Treat your skin with a juicy burst of hydration in every wash with Watermelon SuperGlow Facial Gel Cleanser.
+        A sulphate-free, juicy skin treat, the cleanser features a gel-like texture that's ideal for all skin types.
+        Infused with the goodness of watermelon extract, it deeply cleanses and unclogs pores of oil and dirt while boosting the cell renewal process for clean, matte and bright skin.
+        Powered by Sodium Ascorbyl Phosphate(Vitamin C), it protects skin from damaging free radicals and checks acne breakout to reveal healthy, glowing skin.
+        The additional infusion of soothing cucumber reduces redness and calms inflammation to provide hydrated, plump skin.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4_6_360x.webp?v=1649159203",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/5_6_360x.webp?v=1649159203",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6_2_360x.webp?v=1649159203",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3_10_360x.webp?v=1649159203",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/7_360x.webp?v=1649159203",
+        "filter": "face-wash",
         "sort": "manual"
     },
     {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-17_360x.jpg?v=1646477731",
+        "det": "DEEP PORE FACIAL FOAM CLEANSER",
+        "Mprice": "395.00",
+        "Dprice": "395.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_gel_mask_4d3c6f8e-de4e-4535-a6db-3805c9c27f5a.jpg?v=1649324128",
+        "ml": "120",
+        "ins": `Formulated with potent skin actives, this daily cleanser will provide deep pore care and a brightening effect.
+        Dense foam will provide brilliant cleansing action to eliminate skin impurities and minimise the appearance of pores.
+        Additionally, seaweed extract will control excess oil production, keeping skin hydrated, calm and nourished.
+        Lotus Flower extract will promote cell turnover and fade dark spots for an even-toned complexion.
+        Sulphate free cleansing molecules will gently remove makeup and sunscreen to unclog pores, leaving skin with a healthy texture.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Deep-pore-Listing-image2_1_360x.jpg?v=1646477731",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-17_360x.jpg?v=1646477731",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Deep-pore-Listing-image2_1_360x.jpg?v=1646477731",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-17_360x.jpg?v=1646477731",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Deep-pore-Listing-image2_1_360x.jpg?v=1646477731",
+        "filter": "face-wash",
         "sort": "manual"
     },
     {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2-5_1_16fad4ac-68a5-47d4-90a0-30fd285f2cbe_720x.jpg?v=1649159262",
+        "det": "Rice Water Probiotics Hydrating Toner | Alcohol-Free",
+        "Mprice": "495.00",
+        "Dprice": "470.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/DESK_1.png?v=1647237603",
+        "ml": "150",
+        "ins": `Dot & Key’s Rice Water Probiotics Hydrating Toner blends the potency of moisture-rich ingredients like Rice Water, Probiotics, and Hyaluronic Acid in an alcohol-free formula to hydrate dehydrated, thirsty skin. This toner also balances the skin’s pH and strengthens the microbiome barrier.
+        Boosts skin hydration by balancing and restoring skin’s pH balance and moisture.
+        Balances skin’s flora and maintains a healthy microbiome to strengthen the skin barrier function.
+        Clarifies the skin of dirt and impurities to give a refreshing feel & dewy radiance.
+        Gently exfoliates to refine skin’s texture, even tones and minimizes the appearance of pores.
+        Contains no added synthetic fragrance that makes it great for All Skin Types including Sensitive Skin.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3_10_635a1310-2966-4cb0-9ff9-8b2c70ed1fce_360x.jpg?v=1649159262",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4_10_37a8089c-d4ca-4f0a-b9f8-3bdcad1144ef_360x.jpg?v=1649159262",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6_6_2aa77e38-f652-47c0-9899-d26c1b8c8387_360x.jpg?v=1649159262",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2-5_1_16fad4ac-68a5-47d4-90a0-30fd285f2cbe_720x.jpg?v=1649159262",
+        "filter": "face-wash",
         "sort": "manual"
     },
     {
