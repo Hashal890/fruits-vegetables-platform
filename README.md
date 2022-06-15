@@ -8,6 +8,13 @@ Hello everyone, we are a group of 6 members building dot & key clone in our cons
 - Responsive webpage.
 - Get a smooth experience in payment & login / signup process.
 
+## Tech Stack
+
+[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML),
+[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS),
+[JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript),
+[Bootstrap](https://developer.mozilla.org/en-US/docs/Glossary/Bootstrap).
+
 ## Authors
 
 #### Github
