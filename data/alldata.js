@@ -2803,131 +2803,766 @@ let data = [
         "sort": "manual"
     },
     {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_9ceca45a-10b4-40ed-b077-28971a3c3775_720x.jpg?v=1649324721",
+        "det": "72 HR Hydrating Probiotic Gel Moisturizer For Face With Hyaluronic & Rice Water| For Healthy,Soft Skin| Combination, Dry Skin| Women & Men",
+        "Mprice": "745.00",
+        "Dprice": "670.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/4-72-hrs-probiotics-gel-DESKTOP_1.jpg?v=1648107055",
+        "ml": "60",
+        "ins": `Drenches your skin in 72 hours of non-stop hydration.
+        Packed with the goodness of Hyaluronic Acid, Japanese Rice Water and Probiotics.
+        Maintains skin’s moisture barrier.
+        Balances skin's microbiome and improves overall skin texture.
+        Skin appears plump, hydrated and dewy.
+        Oil-free, lightweight gel, ideal for every skin type.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2_dc43df58-f87a-44d8-81cb-f03f83bd7f97_360x.jpg?v=1649324721",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard3_12d068fe-2eed-4ae3-a04c-1df1cd8b784e_360x.jpg?v=1649324721",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard4_a30e905c-fe74-4f4f-8e69-f18deeccd22a_360x.jpg?v=1649324721",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard5_5e89fbc9-bfd8-4bfb-8d4f-cc3ff1197c2b_360x.jpg?v=1649324721",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_9ceca45a-10b4-40ed-b077-28971a3c3775_720x.jpg?v=1649324721",
         "filter": "dryacne",
         "sort": "manual"
     },
     {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2-3_5_01e3b455-b6fb-4387-9e46-74f646430ecf_360x.jpg?v=1649159203",
+        "det": "Watermelon Super Glow Vitamin C Face Wash Gel| For Oil Control & Deep Cleansing | Combination & Oily Skin |100% Sulphate Free| Women and Men",
+        "Mprice": "395.00",
+        "Dprice": "395.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_gel__1.jpg?v=1649326883",
+        "ml": "120",
+        "ins": `Treat your skin with a juicy burst of hydration in every wash with Watermelon SuperGlow Facial Gel Cleanser.
+        A sulphate-free, juicy skin treat, the cleanser features a gel-like texture that's ideal for all skin types.
+        Infused with the goodness of watermelon extract, it deeply cleanses and unclogs pores of oil and dirt while boosting the cell renewal process for clean, matte and bright skin.
+        Powered by Sodium Ascorbyl Phosphate(Vitamin C), it protects skin from damaging free radicals and checks acne breakout to reveal healthy, glowing skin.
+        The additional infusion of soothing cucumber reduces redness and calms inflammation to provide hydrated, plump skin.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4_6_360x.webp?v=1649159203",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/5_6_360x.webp?v=1649159203",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6_2_360x.webp?v=1649159203",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3_10_360x.webp?v=1649159203",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/7_360x.webp?v=1649159203",
         "filter": "dryacne",
         "sort": "manual"
     },
     {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-7_3_360x.jpg?v=1648088593",
+        "det": "12% AHA + 2% HYALURONIC EXFOLIATING SLEEP MASK",
+        "Mprice": "995.00",
+        "Dprice": "895.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_gel__1.jpg?v=1649326883",
+        "ml": "50",
+        "ins": `Minimizes dullness, fine lines, rough skin texture and dark spots with this overnight exfoliating sleeping mask with 12% Lactic Acid (AHA)+2% Hyaluronic Acid.
+        Featuring a gel-like texture, sloughs away dead skin cells and minimizes dark spots with lactic acid for smooth, even-toned and glowing skin.
+        The goodness of hyaluronic acid intensely hydrates the skin with low and high moisture-binding molecules for soft, plump skin.
+        Additionally, with borage flower extract and other natural ingredients, repairs skin damage and enhances skin's barrier health for an improved texture.
+        An extremely gentle yet effective skin treatment, it is ideal for every skin type for visibly bright, nourished and supple skin.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_14_360x.webp?v=1648088593",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3_12_360x.webp?v=1648088593",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-7_3_360x.jpg?v=1648088593",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_14_360x.webp?v=1648088593",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3_12_360x.webp?v=1648088593",
         "filter": "dryacne",
         "sort": "manual"
     },
     {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_16adaf35-a138-4989-a2f0-e23e0dcd4578_720x.jpg?v=1649326809",
+        "det": "Cica Calming Rapid ACNE Relief GEL Mask",
+        "Mprice": "595.00",
+        "Dprice": "535.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_gel__1.jpg?v=1649326883",
+        "ml": "25",
+        "ins": `Get rapid relief from acne breakout for clear and healthy skin backed by balanced hydration with Calming Rapid Relief Face Mask.
+        Made in an aloe vera juice base, this 15-min wash-off gel mask with real Centella Asiatica leaves is ideal for acne-prone, oily and sensitive skin.
+        Infused by highly potent yet calming cica with zero added fragrance, it rapidly relieves acne breakout for clear, calm skin.
+        While antioxidant-rich green tea soothes inflamed skin and redness, mugwort and heartleaf offer instant relief to skin irritation.
+        With these blends the goodness of niacinamide that helps fade acne scars and minimizes the appearance of pores for an improved texture.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2_b3fccc55-74bf-40ce-b031-534f73363bab_360x.jpg?v=1649326809",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard3_1482e6b4-24b2-41fd-839e-72963faf531f_360x.jpg?v=1649326808",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard4_936cb3f6-61b1-4295-91f6-83ee9cb454b7_360x.jpg?v=1649326809",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard5_865a8cb0-3aef-4c48-879c-a59ee47340f3_360x.jpg?v=1649326808",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_16adaf35-a138-4989-a2f0-e23e0dcd4578_720x.jpg?v=1649326809",
         "filter": "dryacne",
         "sort": "manual"
     },
     {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_4_7a306ce8-6ac4-4704-9284-aa5264e20546_360x.jpg?v=1646476826",
+        "det": "HYALURONIC + CERAMIDE HYDRATING FACE SERUM",
+        "Mprice": "665.00",
+        "Dprice": "598.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_toner_2.jpg?v=1649325377",
+        "ml": "30",
+        "ins": `Featuring hyaluronic acid, this hydrating face serum replenishes skin’s moisture reservoirs. 
+        Contains Vitamin C and antioxidants from acai berries. 
+        Formulated with ceramides and botanicals elements like soothing bulgarian rose. 
+        Improves skin’s barrier function and restores plump, dewy complexion. 
+        Can be used alone or along with your favourite moisturising cream.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_7_360x.webp?v=1646476826",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_7_360x.webp?v=1646476826",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_4_7a306ce8-6ac4-4704-9284-aa5264e20546_360x.jpg?v=1646476826",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_7_360x.webp?v=1646476826",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_7_360x.webp?v=1646476826",
         "filter": "dryacne",
         "sort": "manual"
     },
     {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/HydraEssentialToningWater_360x.jpg?v=1610017074",
+        "det": "HYDRATING ROSE WATER TONER",
+        "Mprice": "695.00",
+        "Dprice": "626.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/5A-Retinol-Desktop-min.jpg?v=1649233163",
+        "ml": "100",
+        "ins": `An alcohol free, non-drying, hydrating face toner.
+        A refreshing toner that improves the texture of the skin by helping minimize pores.
+        Soothes the skin, prevents skin irritation, acne & inflammation.
+        Doubles up as a hydrating refreshing face mist.
+        Contains Bulgarian rose & acai berries to give you a soothing, spa-like experience.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/hydraessentialtoningwater_1f3c9451-707f-4b0a-8c7f-d712766d8c11_360x.jpg?v=1611030705",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Hydration-PACKAGING-BOX-2_360x.jpg?v=1596008000",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/67c71cd6722a4c2f93ecb2dcf8ce9c5e.thumbnail.0000000_360x.jpg?v=1612169253",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/HydraEssentialToningWater_360x.jpg?v=1610017074",
         "filter": "dryacne",
         "sort": "manual"
     },
     {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1-Vit-C-Moisturizer-A_-Listing-NEW_e75ddb63-7d9e-4e71-bb35-0e050969a6b1_720x.jpg?v=1654856343",
+        "det": "Vitamin C Moisturizer With Kakadu Plum & Vitamin E| Fades Pigmentation & Dark Spots| Oily & Dry Skin| Women and Men",
+        "Mprice": "595.00",
+        "Dprice": "565.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/image_226_3_1.png?v=1653646219",
+        "ml": "60",
+        "ins": `Makes Skin Glow, Moisturizes, Even Tones, OILY, DRY SKIN TYPE.
+        Skin brightening Vitamin C moisturizer with 3 types of Vitamin C.
+        Made with the goodness of Kakadu Plum, Ethyl Ascorbyl Acid & Sodium Ascorbic Phosphate.
+        Fades dark spots & hyperpigmentation. Lightweight, sorbet-like texture ideal for all skin types.
+        Skin appears even-toned, moisturized & glowing.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2-Vit-C-Moisturizer-A_-Listing-NEW_3c11ec4f-722d-4694-a8f0-a0b38e9657be_360x.jpg?v=1654856343",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3-Vit-C-Moisturizer-A_-Listing-NEW_926129b3-e96c-485a-b5d7-db7f6df437b2_360x.jpg?v=1654856343",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4-Vit-C-Moisturizer-A_-Listing-NEW_8c98d559-c863-418e-8d3e-56479faa66e7_360x.jpg?v=1654320357",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/5-Vit-C-Moisturizer-A_-Listing-NEW_a68179f3-06d5-4df3-9791-53a5ec8344bb_360x.jpg?v=1654320357",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6-Vit-C-Moisturizer-A_-Listing-NEW_5e706b58-9156-4b32-aa27-7c2f55f24451_360x.jpg?v=1654320357",
         "filter": "dryness-and-repair",
         "sort": "manual"
     },
     {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_9ceca45a-10b4-40ed-b077-28971a3c3775_720x.jpg?v=1649324721",
+        "det": "72 HR Hydrating Probiotic Gel Moisturizer For Face With Hyaluronic & Rice Water| For Healthy,Soft Skin| Combination, Dry Skin| Women & Men",
+        "Mprice": "745.00",
+        "Dprice": "670.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/4-72-hrs-probiotics-gel-DESKTOP_1.jpg?v=1648107055",
+        "ml": "60",
+        "ins": `Drenches your skin in 72 hours of non-stop hydration.
+        Packed with the goodness of Hyaluronic Acid, Japanese Rice Water and Probiotics.
+        Maintains skin’s moisture barrier.
+        Balances skin's microbiome and improves overall skin texture.
+        Skin appears plump, hydrated and dewy.
+        Oil-free, lightweight gel, ideal for every skin type.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2_dc43df58-f87a-44d8-81cb-f03f83bd7f97_360x.jpg?v=1649324721",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard3_12d068fe-2eed-4ae3-a04c-1df1cd8b784e_360x.jpg?v=1649324721",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard4_a30e905c-fe74-4f4f-8e69-f18deeccd22a_360x.jpg?v=1649324721",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard5_5e89fbc9-bfd8-4bfb-8d4f-cc3ff1197c2b_360x.jpg?v=1649324721",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_9ceca45a-10b4-40ed-b077-28971a3c3775_720x.jpg?v=1649324721",
         "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_0f431e19-6282-4e3c-8987-51859bf1275a_720x.jpg?v=1649327378",
+        "det": "Retinol & Ceramide Age Defense Night Cream For Face| Treats Fine Lines & Wrinkles | Mature, Combination, Dry Skin| Women & Men",
+        "Mprice": "945.00",
+        "Dprice": "850.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/5A-Retinol-Desktop-min.jpg?v=1649233163",
+        "ml": "60",
+        "ins": `Targeted, overnight treatment for firm, smooth and youthful skin.
+        Infused with the goodness of retinol, ceramide and hibiscus.
+        Clinically Proven : Minimizes wrinkles & fine lines.
+        Promotes cell turnover to delay skin’s ageing.
+        Locks in moisture to prevent dryness & irritation.
+        Skin appears firm, smooth, lifted and rejuvenated.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2_552abd2a-40df-45be-9db1-65baf406cd26_360x.jpg?v=1649327379",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard3_09b4450d-d197-48a9-9c63-36d22107d8af_360x.jpg?v=1649327378",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard4_e209a800-a510-4ad4-9d1c-4c4d7ece3d77_360x.jpg?v=1649327378",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard5_9eff0c59-1a61-4230-b77f-dfc49d2bee5a_360x.jpg?v=1649327378",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_0f431e19-6282-4e3c-8987-51859bf1275a_720x.jpg?v=1649327378",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/LIPMASK_360x.jpg?v=1655311025",
+        "det": "Vitamin C Lip Mask With Vitamin E, Shea Butter,Hyaluronic & Almond Oil| Treats Pigmented Dark Lips| Women & Men",
+        "Mprice": "445.00",
+        "Dprice": "356.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/5A-Retinol-Desktop-min.jpg?v=1649233163",
+        "ml": "21",
+        "ins": `Kiss dry, chapped and pigmented lips goodbye with the goodness of Vitamin C, Lingonberry and Turmeric Oil blending in a jar.
+        Featuring a soft, luxurious texture, this lip mask enriched with vitamin C retexturizes the lips and alleviates flakey skin for smooth, plump lips.
+        Formulated using skin healing and rejuvenating turmeric oil to reduce lip pigmentation for visibly healthy, pink lips.
+        Also infused with antioxidant-rich lingonberry, vitamin E and shea butter, give your lips that extra nourishment and care for plump, plush and supple lips.
+        Use it as an overnight lip mask or tinted lip balm, it melts easily and provides baby soft, pink lips for that perfect pretty pout.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3_11_360x.webp?v=1655311025",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/LIPMASK_360x.jpg?v=1655311025",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3_11_360x.webp?v=1655311025",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/LIPMASK_360x.jpg?v=1655311025",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3_11_360x.webp?v=1655311025",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2-5_1_16fad4ac-68a5-47d4-90a0-30fd285f2cbe_720x.jpg?v=1649159262",
+        "det": "Rice Water Probiotics Hydrating Toner | Alcohol-Free",
+        "Mprice": "495.00",
+        "Dprice": "470.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/DESK_1.png?v=1647237603",
+        "ml": "150",
+        "ins": `Dot & Key’s Rice Water Probiotics Hydrating Toner blends the potency of moisture-rich ingredients like Rice Water, Probiotics, and Hyaluronic Acid in an alcohol-free formula to hydrate dehydrated, thirsty skin. This toner also balances the skin’s pH and strengthens the microbiome barrier.
+        Boosts skin hydration by balancing and restoring skin’s pH balance and moisture.
+        Balances skin’s flora and maintains a healthy microbiome to strengthen the skin barrier function.
+        Clarifies the skin of dirt and impurities to give a refreshing feel & dewy radiance.
+        Gently exfoliates to refine skin’s texture, even tones and minimizes the appearance of pores.
+        Contains no added synthetic fragrance that makes it great for All Skin Types including Sensitive Skin.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3_10_635a1310-2966-4cb0-9ff9-8b2c70ed1fce_360x.jpg?v=1649159262",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4_10_37a8089c-d4ca-4f0a-b9f8-3bdcad1144ef_360x.jpg?v=1649159262",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6_6_2aa77e38-f652-47c0-9899-d26c1b8c8387_360x.jpg?v=1649159262",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2-5_1_16fad4ac-68a5-47d4-90a0-30fd285f2cbe_720x.jpg?v=1649159262",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/LEMONSCRUB_720x.jpg?v=1655303198",
+        "det": "VITAMIN C AVALON LEMON SUGAR BODY SCRUB",
+        "Mprice": "545.00",
+        "Dprice": "354.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/lemon_scrub_1.jpg?v=1636541769",
+        "ml": "200",
+        "ins": "Time to get flirty in the shower! A slushy sugar scrub with Avalon Lemon & Verbena to gently exfoliate dead skin cells for softer skin that glows.",
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-5_2_360x.jpg?v=1655303198",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-4_2_360x.jpg?v=1655303198",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-3_2_360x.jpg?v=1655303198",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/unnamed_360x.jpg?v=1655303198",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_3_360x.jpg?v=1655303198",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-4_4_85b8fcfc-89a1-49d0-bc95-e4d49dfd6619_360x.jpg?v=1646934817",
+        "det": "WATERMELON LIP MASK WITH 20% SHEA",
+        "Mprice": "645.00",
+        "Dprice": "483.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/lemon_scrub_1.jpg?v=1636541769",
+        "ml": "21",
+        "ins": `Enjoy a one-in-a-melon treat for juicy lips with Moisture Rich Hydrating Lip Mask.
+        100% vegan, buttery & lightly tinted lip mask ideal for dry, cracked & wrinkled lips.
+        Contains 20% shea butter that deeply moisturizes dry lips to reveal nourished, soft & smooth lips.
+        Blends the goodness of watermelon extract & cranberry oil that adds lustre to the lips with a natural tint & fruity flavour.
+        Moisture magnet hyaluronic acid intensely hydrates wrinkled lips for plump lips.
+        Additionally, carnauba and candelilla waxes soothe cracks and fade lip lines while retaining moisture to the lips.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/backedby_1_360x.jpg?v=1646934817",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/whatdoesitdo_1_360x.jpg?v=1646934817",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/whentouse_360x.jpg?v=1646934817",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/bestsuitedfor_360x.jpg?v=1646934817",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-4_4_85b8fcfc-89a1-49d0-bc95-e4d49dfd6619_360x.jpg?v=1646934817",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-18_360x.jpg?v=1644916747",
+        "det": "AVOCADO SMOOTHIE DAY CREAM SPF 20",
+        "Mprice": "845.00",
+        "Dprice": "718.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_cleanser_7465530c-09e2-4b7b-a655-a840bc161b4e.jpg?v=1649326653",
+        "ml": "60",
+        "ins": `As healthy for your skin as a green smoothie for your health.
+        A day cream infused with avocado, kale, chia seeds - packed with vitamins. 
+        Comes with SPF 20 and acts as a shield (screen) against pollution.
+        A unique anti pollution face cream with SPF as well as green nutrients.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_5_360x.webp?v=1644916747",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_4_360x.webp?v=1644916747",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-18_360x.jpg?v=1644916747",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_5_360x.webp?v=1644916747",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_4_360x.webp?v=1644916747",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2-6_360x.jpg?v=1648088650",
+        "det": "Pineapple & Vitamin C Face Sleep Mask With Hyaluronic| For Skin Glow| Fades Pigmentation & Dark Spots| Oily, Dry & Combination Skin| Women & Men",
+        "Mprice": "995.00",
+        "Dprice": "845.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_cleanser_7465530c-09e2-4b7b-a655-a840bc161b4e.jpg?v=1649326653",
+        "ml": "60",
+        "ins": `Vitamin C rich Sleeping Mask with ceramides & hyaluronic acid.
+        Recovers skin’s lost radiance while you sleep and gives you glowing skin the next morning.
+        Contains Vitamin C derived from pineapple, pumpkin oil & blood orange.
+        Brightens complexion overnight - by promoting cell turnover.
+        Lightens stubborn dark spots, pigmentation and makes your face glow.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/5416de8fff2342f09fabf5d2d066c146.thumbnail.0000000_360x.jpg?v=1612171387",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/vit-c-packaging-box-1_360x.jpg?v=1648088650",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/D_K_Glow-c_Sleep_Mask_Bottle_final_CapChanged2_360x.jpg?v=1648088650",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2-6_360x.jpg?v=1648088650",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_4_7a306ce8-6ac4-4704-9284-aa5264e20546_360x.jpg?v=1646476826",
+        "det": "HYALURONIC + CERAMIDE HYDRATING FACE SERUM",
+        "Mprice": "665.00",
+        "Dprice": "598.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_toner_2.jpg?v=1649325377",
+        "ml": "30",
+        "ins": `Featuring hyaluronic acid, this hydrating face serum replenishes skin’s moisture reservoirs. 
+        Contains Vitamin C and antioxidants from acai berries. 
+        Formulated with ceramides and botanicals elements like soothing bulgarian rose. 
+        Improves skin’s barrier function and restores plump, dewy complexion. 
+        Can be used alone or along with your favourite moisturising cream.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_7_360x.webp?v=1646476826",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_7_360x.webp?v=1646476826",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_4_7a306ce8-6ac4-4704-9284-aa5264e20546_360x.jpg?v=1646476826",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_7_360x.webp?v=1646476826",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_7_360x.webp?v=1646476826",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2-7_360x.jpg?v=1648088622",
+        "det": "HYALURONIC HYDRATING WATER SLEEP MASK",
+        "Mprice": "795.00",
+        "Dprice": "557.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_toner_2.jpg?v=1649325377",
+        "ml": "60",
+        "ins": `A hydrating face mask that resets your skin overnight, by erasing the impact of stress and fatigue.
+        Cucumber and chamomile smoothen, plump and perfect the skin while you sleep.
+        Works overnight to reverse the damaging effects of UV, pollution and smoke on skin.
+        Anti-oxidant concentrated formula sinks into the skin to work from within.
+        Uplifting fragrance of bulgarian rose leaves you feeling relaxed.
+        Hyaluronic acid continuously infuses high doses of moisture to the skin.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Hydration-PACKAGING-BOX-4_360x.jpg?v=1648088622",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/15aad364376b4e0f80fc2ee8f235f8f7.thumbnail.0000000_360x.jpg?v=1612170586",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2-7_360x.jpg?v=1648088622",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Hydration-PACKAGING-BOX-4_360x.jpg?v=1648088622",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/15aad364376b4e0f80fc2ee8f235f8f7.thumbnail.0000000_360x.jpg?v=1612170586",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-9_1_360x.jpg?v=1655310238",
+        "det": "5-in-1 HYDRATION STATION",
+        "Mprice": "1,755.00",
+        "Dprice": "1,245.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_toner_2.jpg?v=1649325377",
+        "ml": "30",
+        "ins": `Deep Pore Cleanser: Infused with lactic acid, malic acid & other soothing natural ingredients, it deeply cleanses & unclogs pores for clear, milky bright skin.
+        Hyaluronic Acid Serum: Blending the goodness of hyaluronic acid & Bulgarian Rose, it deeply hydrates & soothes dehydrated skin for bouncy & soft skin texture.
+        72 Hours Probiotic Gel: Alleviates dryness with 72 hours non-stop hydration while strengthening skin’s barrier function with hyaluronic acid, probiotics & fermented rice water.
+        Water Sleep Mask: An overnight sleep mask powered by chamomile & Bulgarian Rose to heal tired & damaged skin for fresh, plump skin.
+        Lip Sleeping Mask: Vitamin C rich lip mask infused with turmeric oil & lingonberry to heal chapped & pigmented lips for plush, pink lips.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_360x.jpg?v=1655310238",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2_3b2fc99c-c2e5-40cd-a011-6906388a18e8_360x.jpg?v=1655310238",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-9_1_360x.jpg?v=1655310238",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_360x.jpg?v=1655310238",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2_3b2fc99c-c2e5-40cd-a011-6906388a18e8_360x.jpg?v=1655310238",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_4_360x.jpg?v=1646934795",
+        "det": "LIP SUGAR SCRUB WITH 35% CANE SUGAR",
+        "Mprice": "445.00",
+        "Dprice": "422.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/5A-Retinol-Desktop-min.jpg?v=1649233163",
+        "ml": "21",
+        "ins": `Made of real chocolate & peppermint oil.
+        Scrubs away dead cells to reveal softer lips.
+        Almond oil helps lighten dark lips.
+        Shea butter keeps the lips moisturized for hours. 
+        Powered with vitamin E that helps heal cracked, dry lips faster. 
+        Made with edible ingredients, it gets rid of any & all dead flaky skin.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/e32a6159246a4ce9b17334541303055f.thumbnail.0000000_360x.jpg?v=1607421470",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Lip-scrub-Image-2_360x.jpg?v=1646934795",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Lipscrub_360x.jpg?v=1646934795",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_4_360x.jpg?v=1646934795",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-2_5_360x.jpg?v=1645089859",
+        "det": "All Day Hydration Trio",
+        "Mprice": "1,365.00",
+        "Dprice": "1,160.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_cleanser_7465530c-09e2-4b7b-a655-a840bc161b4e.jpg?v=1649326653",
+        "ml": "60",
+        "ins": `Dry, dull & irritated skin? Discover Dot & Key's All Day Hydration Trio, specially curated to bid dry, dull skin goodbye. Curated using our best selling hydrating heroes featuring moisture-rich ingredients, the products work together to drench and quench your thirsty skin, leaving it deeply hydrated, plump, dewy and bouncy. 
+        Deep Pore Foaming Cleanser: A sulphate-free, brilliant foaming face wash infused with lactic acid, malic acid & natural soothing ingredients, it deeply cleanses to unclog pores and takes away impurities, leaving skin squeaky clean, smooth and instantly bright
+        Rice Water Probiotics Hydrating Toner: Featuring an alcohol-free formula, the toner blends the goodness of Rice Water, Probiotics, and Hyaluronic Acid hydrates, clarifies, tones and gently exfoliates to restore skin’s pH balance while strengthening the microbiome barrier
+        72 Hr Hydrating Gel+Probiotics: Light, oil-free daily moisturiser infused with Japanese Rice Water, Pre & Probiotics, Kombucha and Hyaluronic Acid, it is clinically to hydrate skin for 72 hours, leaving it plump, dewy and bouncy with an improved skin texture. `,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_14_360x.jpg?v=1645089859",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-2_5_360x.jpg?v=1645089859",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_14_360x.jpg?v=1645089859",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-2_5_360x.jpg?v=1645089859",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_14_360x.jpg?v=1645089859",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/day-night_1800x1800_1_360x.png?v=1628595712",
+        "det": "DAY & NIGHT CARE COMBO",
+        "Mprice": "1590.00",
+        "Dprice": "1431.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_toner_2.jpg?v=1649325377",
+        "ml": "15",
+        "ins": `A day & night combo that works on a cellular level to brighten and moisturize dull skin.
+        Made with moisture boosting ceramides and nature's goodness.
+        The pair of day & night creams leave the skin feeling firmer and youthful.
+        Tightens pores and increases skin’s elasticity.
+        Helps protect against environmental stressors.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/day-night_360x.jpg?v=1610086311",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/DaynIghtCombo2_1800x1800_d1b2b0dc-527b-4d18-adeb-dea166817e6e_360x.jpg?v=1629204803",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/day-night_1800x1800_1_360x.png?v=1628595712",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/day-night_360x.jpg?v=1610086311",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/DaynIghtCombo2_1800x1800_d1b2b0dc-527b-4d18-adeb-dea166817e6e_360x.jpg?v=1629204803",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/HydraEssentialToningWater_360x.jpg?v=1610017074",
+        "det": "HYDRATING ROSE WATER TONER",
+        "Mprice": "695.00",
+        "Dprice": "626.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/5A-Retinol-Desktop-min.jpg?v=1649233163",
+        "ml": "100",
+        "ins": `An alcohol free, non-drying, hydrating face toner.
+        A refreshing toner that improves the texture of the skin by helping minimize pores.
+        Soothes the skin, prevents skin irritation, acne & inflammation.
+        Doubles up as a hydrating refreshing face mist.
+        Contains Bulgarian rose & acai berries to give you a soothing, spa-like experience.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/hydraessentialtoningwater_1f3c9451-707f-4b0a-8c7f-d712766d8c11_360x.jpg?v=1611030705",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Hydration-PACKAGING-BOX-2_360x.jpg?v=1596008000",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/67c71cd6722a4c2f93ecb2dcf8ce9c5e.thumbnail.0000000_360x.jpg?v=1612169253",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/HydraEssentialToningWater_360x.jpg?v=1610017074",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/LEMONYOGURT_720x.jpg?v=1655303219",
+        "det": "Yoghurt GLOW Body Moisturizer WITH Avalon Lemon VITAMIN C",
+        "Mprice": "495.00",
+        "Dprice": "322.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/5A-Retinol-Desktop-min.jpg?v=1649233163",
+        "ml": "200",
+        "ins": "Get happy, bouncy skin with lemony zing! A soft cushiony body yoghurt squeezed with Avalon Lemon & Verbena, it hydrates & pampers for even-toned, fresh & glowing skin.",
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-3_5_360x.jpg?v=1655303219",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-4_5_360x.jpg?v=1655303219",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-5_5_360x.jpg?v=1655303219",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_20_360x.jpg?v=1655303219",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/mois_360x.jpg?v=1655303219",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_1_360x.jpg?v=1644916657",
+        "det": "Avocado + Superfoods Nourishing Face Oil",
+        "Mprice": "645.00",
+        "Dprice": "516.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/5A-Retinol-Desktop-min.jpg?v=1649233163",
+        "ml": "20",
+        "ins": `Give your skin its daily dose of superfoods for healthy and nourished skin with Superfood Skin Nourishing Face Oil.
+        Blending 7 miraculous superfood oils in one, it's a quick-absorbing, non-greasy face oil ideal for very dry skin.
+        Infused with Avocado Oil rich in omega-6 fatty acids, it boosts collagen synthesis to defy early signs of ageing for plump, youthful skin.
+        With this comes the goodness of Flaxseed Oil, a rich source of omega-3 fatty acids which intensely hydrates skin and smoothen the texture for supple, plump skin.
+        Jojoba oil, a rich source of Vitamin E, moisturises the skin without clogging pores and renews skin’s natural balance resulting in a youthful, healthy bounce.
+        All-natural, vegan face oil with zero added fragrance, get healthy, nourished skin in every drop.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_1_360x.jpg?v=1644916657",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3_1_360x.jpg?v=1644916657",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4_1_360x.jpg?v=1644916657",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/5_1_360x.jpg?v=1644916657",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6_1_360x.jpg?v=1644916657",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_2_360x.jpg?v=1644862670",
+        "det": "Rosehip Glow Elixir Face Oil",
+        "Mprice": "645.00",
+        "Dprice": "516.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_gel__1.jpg?v=1649326883",
+        "ml": "20",
+        "ins": `Reveal healthy and glowing skin in every drop with Glow Elixir Radiance Enhancing Face Oil.
+        100% natural botanical oil featuring vegan formula with zero added fragrance, it is a luxurious skin treat for normal to dry skin.
+        Infused with antioxidant-rich Rosehip Oil, it fades pigmentation and evens out skin tone to reveal beautiful, radiant skin.
+        With the goodness of Cloudberry Oil (a rich source of vitamin C), it treats dullness and protects skin from early signs of ageing for healthy, bright skin.
+        Additionally, Sea Buckthorn (rich in omega-3 and 6 fatty acids) promotes collagen synthesis, boosts elasticity and sloughs away dull dead cells for smooth, supple and moisturized skin.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_2_360x.jpg?v=1644862670",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3_2_360x.jpg?v=1644862670",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4_2_360x.jpg?v=1644862670",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6_2_360x.jpg?v=1644862670",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/5_2_360x.jpg?v=1644862670",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/HandCream-L_360x.jpg?v=1638974908",
+        "det": "HAND CREAM + SANITIZER, LAVENDER",
+        "Mprice": "395.00",
+        "Dprice": "390.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/5A-Retinol-Desktop-min.jpg?v=1649233163",
+        "ml": "50",
+        "ins": `A perfect hand cream with dual benefits of sanitizer plus moisturizer.
+        Contains anti-bacterials that get rid of 99.9% germs, as well as moisturizing jojoba and shea actives that offer intense hydration.
+        Its alcohol-free formula also prevents hands from getting dry.
+        Citrusy fragrance of lavender and peppermint will make your hands smell great and feel soft.
+        No nasty chemicals, gentle on skin and free of side-effects.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Other-product-packaging-box-3HandCream_360x.jpg?v=1638974908",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/HandCream-L_360x.jpg?v=1638974908",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Other-product-packaging-box-3HandCream_360x.jpg?v=1638974908",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/HandCream-L_360x.jpg?v=1638974908",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Other-product-packaging-box-3HandCream_360x.jpg?v=1638974908",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/HandCream-M_360x.jpg?v=1644916543",
+        "det": "HAND CREAM + SANITIZER, MANDARIN",
+        "Mprice": "395.00",
+        "Dprice": "395.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_toner_2.jpg?v=1649325377",
+        "ml": "50",
+        "ins": `A perfect hand cream with dual benefits of sanitizer plus moisturizer. 
+        Contains anti-bacterials that get rid of 99.9% germs, as well as moisturizing jojoba and shea actives that offer intense hydration. 
+        Its alcohol-free formula also prevents hands from getting dry. 
+        Citrusy fragrance of mandarin and lime will make your hands smell greeat and feel soft. 
+        No nasty chemicals, gentle on skin and free of side-effects.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Other-product-packaging-box-2HandCream_360x.jpg?v=1644916543",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/HandCream-M_360x.jpg?v=1644916543",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Other-product-packaging-box-2HandCream_360x.jpg?v=1644916543",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/HandCream-M_360x.jpg?v=1644916543",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Other-product-packaging-box-2HandCream_360x.jpg?v=1644916543",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_2_720x.png?v=1644862556",
+        "det": "VELVET ROSE BODY BUTTER WITH 5% SHEA",
+        "Mprice": "595.00",
+        "Dprice": "387.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/rose_butter_1.jpg?v=1636542538",
+        "ml": "200",
+        "ins": "A luxurious body butter lovingly whipped with 5% Shea Butter to moisturize, handpicked damask roses to add a dewy glow & lavender oil to keep your senses calm.",
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_1_360x.png?v=1644862556",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3_1_360x.png?v=1644862556",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4_1_360x.png?v=1644862556",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/unnamed_8_360x.png?v=1644862556",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6_1_360x.png?v=1644862556",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-6_720x.jpg?v=1644862704",
+        "det": "COCOA RICH BODY BUTTER WITH 10% SHEA",
+        "Mprice": "595.00",
+        "Dprice": "387.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/2-Cocoa-Body-Butter_1cdb3a0d-ce99-468a-98c9-55130b91542f.png?v=1638788914",
+        "ml": "200",
+        "ins": "A warm, melt-in-your-skin body butter with the goodness of 10% shea & cocoa butter for intense hydration leaving skin ultra-soft, smooth & glowing with the lingering essence of vanilla.",
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_15_360x.jpg?v=1644862704",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-5_360x.jpg?v=1644862704",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-4_360x.jpg?v=1644862704",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-3_360x.jpg?v=1644862704",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-2_0e90978d-13d9-458e-86e9-6f8cc9b3633e_360x.jpg?v=1644862704",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/SkinAwakening_360x.jpg?v=1610017602",
+        "det": "SKIN AWAKENING MOISTURIZING SERUM",
+        "Mprice": "795.00",
+        "Dprice": "636.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_back_spray_5025e309-2b13-4d52-a812-34571db246cd.jpg?v=1649325970",
+        "ml": "50",
+        "ins": `This vitamin-boost moisturizing serum energizes your skin every morning, while gently soothing sensitive or irritated areas.
+        Acts as a face moisturizer that rejuvenates the skin with icy peppermint oil and soothing lavender oil.
+        A face serum formulated with high-quality spent grain wax, cold-pressed argan oil and shea butter.
+        No nasty chemicals like parabens, alcohol and phthalates - gentle on skin and free of side-effects.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Mint-packaging-box-2SkinAwakeningSerum_360x.jpg?v=1610017602",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/SkinAwakening_360x.jpg?v=1610017602",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Mint-packaging-box-2SkinAwakeningSerum_360x.jpg?v=1610017602",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/SkinAwakening_360x.jpg?v=1610017602",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Mint-packaging-box-2SkinAwakeningSerum_360x.jpg?v=1610017602",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_0b03915d-fd45-4f70-b766-e80d87e99975_360x.jpg?v=1639046585",
+        "det": "Your Bedtime Buddies",
+        "Mprice": "1785.00",
+        "Dprice": "1715.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_cleanser_7465530c-09e2-4b7b-a655-a840bc161b4e.jpg?v=1649326653",
+        "ml": "15",
+        "ins": `Pamper yourself with the ultimate beauty sleep with Your Bedtime Buddies skincare combo.
+        Made with skincare essentials ideal for your PM routine, this skincare combo is perfect for all skin types.
+        Moisturize your skin with our retinol night cream that works overnight to minimize fine lines and wrinkles by boosting collagen synthesis for smooth, youthful glowing skin.
+        Follow it up with our eye cream powered by retinol + caffeine to treat dark circles, undereye bags, fine lines and wrinkles eyes for fresh, bright eyes.
+        Lastly, pamper your lips with our luxurious lip sleeping mask infused with vitamin c and lingonberry to treat dryness and pigmentation for soft, plump and pink lips.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2a_360x.jpg?v=1639046585",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_0b03915d-fd45-4f70-b766-e80d87e99975_360x.jpg?v=1639046585",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2a_360x.jpg?v=1639046585",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_0b03915d-fd45-4f70-b766-e80d87e99975_360x.jpg?v=1639046585",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2a_360x.jpg?v=1639046585",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/H_1_360x.jpg?v=1655212265",
+        "det": "Hyaluronic Rice Water Rapid Hydrators",
+        "Mprice": "2,010.00",
+        "Dprice": "1,495.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_cleanser_7465530c-09e2-4b7b-a655-a840bc161b4e.jpg?v=1649326653",
+        "ml": "120",
+        "ins": `Skin looking for some much needed hydration? Drench your skin with the Hyaluronic Rice Water Rapid Hydrators from Dot & Key. They'll quench your skin's thirst & keep dullness, dryness, irritation & flakey skin at bay, for nourished, bouncy & plump skin. This combo consists of our best-selling hydration heroes & it is exactly what you need to give your skin a shot of love.
+        Deep Pore Foaming Cleanser: Infused with soothing natural ingredients & potent skin actives, this sulphate-free, foaming facewash deeply cleanses your skin & unclog pores to make it squeaky clean & instantly bright.
+        Rice Water Hydrating Toner: Blending in the goodness of potent hydrators like Rice Water, Probiotics, and Hyaluronic Acid, this alcohol-free toner hydrates, clarifies, and gently exfoliates to enhance skin's microbiome barrier.
+        Hayaluronic + Ceramide Hydrating Serum: With skin goodies like hyaluronic acid, ceramides and Bulgrian Rose, the serum not only replenishes skin moisture level but also locks it in & soothes the skin.
+        72 Hr Hydrating Gel with Probiotics: Drench your skin with non-stop hydration with this oil-free, lightweight gel. Infused with Hyaluronic Acid, Japanese Rice Water and Probiotics, it's a splash of hydration in a jar!
+        Blue Splash Proof Pouch: With this FREE Limited Edition splash proof pouch, you can now carry all your skincare faves wherever you go!`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/H1_ec657801-5439-40c6-b913-12b39d188b50_360x.jpg?v=1655212267",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/H2_e111fc2b-afa4-4818-947f-3734b2e8c4d2_360x.jpg?v=1655212266",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/H_1_360x.jpg?v=1655212265",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/H1_ec657801-5439-40c6-b913-12b39d188b50_360x.jpg?v=1655212267",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/H2_e111fc2b-afa4-4818-947f-3734b2e8c4d2_360x.jpg?v=1655212266",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/HandCream-Rose_360x.jpg?v=1644862602",
+        "det": "HAND CREAM + SANITIZER, ROSE",
+        "Mprice": "395.00",
+        "Dprice": "356.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_cleanser_7465530c-09e2-4b7b-a655-a840bc161b4e.jpg?v=1649326653",
+        "ml": "50",
+        "ins": `A best hand cream solution with dual benefits of sanitizer plus moisturizer.
+        Formulated with moisturizing jojoba and shea actives that offer intense hydration.
+        This non-drying, alcohol-free formula gets rid of 99.9% germs while softening the hands.
+        Citrusy fragrance of rose geranium will make your hands smell and feel beautiful for hours.
+        No nasty chemicals, gentle on skin and free of side-effects.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Other-product-packaging-box-4HandCream_360x.jpg?v=1644862602",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/HandCream-Rose_360x.jpg?v=1644862602",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Other-product-packaging-box-4HandCream_360x.jpg?v=1644862602",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/HandCream-Rose_360x.jpg?v=1644862602",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Other-product-packaging-box-4HandCream_360x.jpg?v=1644862602",
+        "filter": "dryness-and-repair",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-4_4_763d27a2-de17-476f-9058-0891cd25b094_360x.jpg?v=1646476808",
+        "det": "PHA + Bakuchiol Daily Peel Serum",
+        "Mprice": "995.00",
+        "Dprice": "796.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_gel__1.jpg?v=1649326883",
+        "ml": "30",
+        "ins": `A unique lightweight leave-on daily serum formulated with PHA & Bakuchiol extracts for gentle & natural exfoliation.
+        Made with PHAs, the new gen of AHAs & BHAs that effectively and gently peel away the dull outer layer of the skin.
+        Bakuchiol, a natural retinol alternative that has a soothing effect, helps reduce the appearance of fine lines & wrinkles while reducing skin discolourations caused by environmental exposure.
+        Natural botanicals extracts like aloe vera leaf juice, chamomile and white tea helps calm irritations while hyaluronic provides healthy hydration.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/howtouse_360x.jpg?v=1646476808",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/box_360x.jpg?v=1646476808",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/howtouse_360x.jpg?v=1646476808",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/box_360x.jpg?v=1646476808",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-4_4_763d27a2-de17-476f-9058-0891cd25b094_360x.jpg?v=1646476808",
+        "filter": "exfoliators",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-7_3_360x.jpg?v=1648088593",
+        "det": "12% AHA + 2% HYALURONIC EXFOLIATING SLEEP MASK",
+        "Mprice": "995.00",
+        "Dprice": "895.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_gel__1.jpg?v=1649326883",
+        "ml": "50",
+        "ins": `Minimizes dullness, fine lines, rough skin texture and dark spots with this overnight exfoliating sleeping mask with 12% Lactic Acid (AHA)+2% Hyaluronic Acid.
+        Featuring a gel-like texture, sloughs away dead skin cells and minimizes dark spots with lactic acid for smooth, even-toned and glowing skin.
+        The goodness of hyaluronic acid intensely hydrates the skin with low and high moisture-binding molecules for soft, plump skin.
+        Additionally, with borage flower extract and other natural ingredients, repairs skin damage and enhances skin's barrier health for an improved texture.
+        An extremely gentle yet effective skin treatment, it is ideal for every skin type for visibly bright, nourished and supple skin.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_14_360x.webp?v=1648088593",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3_12_360x.webp?v=1648088593",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-7_3_360x.jpg?v=1648088593",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_14_360x.webp?v=1648088593",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3_12_360x.webp?v=1648088593",
+        "filter": "exfoliators",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-6_3_360x.jpg?v=1646477545",
+        "det": "10% AHA + 2% BHA EXFOLIATING GLOW HYDRO PEEL",
+        "Mprice": "595.00",
+        "Dprice": "565.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/2-Vit-C-Serum-DESKTOP-A_-Listing.jpg?v=1648114658",
+        "ml": "30",
+        "ins": `Bring home gentler and safer alternative to expensive clinical skin peeling treatments for supple, fresh and bright skin.
+        The powerful combination of glycolic acid, lactic acid (AHA) and salicylic acid (BHA) gently peel away dead skin cells to reveal new, younger-looking skin.
+        Also infused with borage flower extract and other natural derivatives, the serum leaves skin feeling nourished and rested with a healthy, glowing complexion.
+        A lightweight, water-based exfoliating face serum that causes zero skin irritation, thus making it the best option for the ones new to skin peeling treatment.
+        Free of nasties and dermatologically tested, use this serum twice a week for visibly smooth, soft and clear skin.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4_5_360x.webp?v=1646477545",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-6_3_360x.jpg?v=1646477545",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4_5_360x.webp?v=1646477545",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-6_3_360x.jpg?v=1646477545",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4_5_360x.webp?v=1646477545",
+        "filter": "exfoliators",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-3_4_ae587533-265c-4e47-84bf-81c14bbc6539_360x.jpg?v=1646476775",
+        "det": "30% AHA + 2% BHA GLOW ACCELERATOR PEEL",
+        "Mprice": "695.00",
+        "Dprice": "556.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/cica_gel__1.jpg?v=1649326883",
+        "ml": "20",
+        "ins": `With 5 acid power : glycolic acid, lactic acid, citric acid, mandelic and salicylic acid. 
+        High Performance Peel 3X advanced exfoliation for glowing skin. 
+        The blend of natural ingredients will soothe and nourish skin post exfoliation. 
+        Hyaluronic acid will hydrate the skin, keeping it soft and supple. 
+        An ideal once a week skin treatment.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/GlowAccelerator_360x.jpg?v=1646476775",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/glowacceleratorcleansingsolution_360x.png?v=1646476775",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-3_4_ae587533-265c-4e47-84bf-81c14bbc6539_360x.jpg?v=1646476775",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/GlowAccelerator_360x.jpg?v=1646476775",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/glowacceleratorcleansingsolution_360x.png?v=1646476775",
+        "filter": "exfoliators",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/BootyPolish_1b3a03e0-3543-4c67-99b1-b4b68947e565_360x.jpg?v=1644862499",
+        "det": "COFFEE BUTT SCRUB FOR ANTI CELLULITE & STRETCH MARKS",
+        "Mprice": "795.00",
+        "Dprice": "636.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/2-Vit-C-Serum-DESKTOP-A_-Listing.jpg?v=1648114658",
+        "ml": "60",
+        "ins": `A body polish formulated especially for the butt, thighs and hips.
+        This booty scrub contains caffeine and walnut for deep exfoliation.
+        Gets rids of dark spots, pigmentation, stretch marks, cellulite and rough bumpy skin.
+        A luxurious butt scrub that leaves behind soft to touch skin, even complexion.
+        Gives you the confidence to flaunt your skin - wear that swimsuit more confidently.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/pigmentation-packaging-box-1_360x.jpg?v=1644862499",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/bootypolish_360x.jpg?v=1644862499",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/BootyPolish_1b3a03e0-3543-4c67-99b1-b4b68947e565_360x.jpg?v=1644862499",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/pigmentation-packaging-box-1_360x.jpg?v=1644862499",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/bootypolish_360x.jpg?v=1644862499",
+        "filter": "exfoliators",
+        "sort": "manual"
+    },
+    {
+        "img": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/MeltAwayMakeupRemoverBalm_360x.jpg?v=1610017453",
+        "det": "MAKEUP REMOVER DETOX CLEANSING BALM",
+        "Mprice": "795.00",
+        "Dprice": "636.00",
+        "Limg": "https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Untitled-1_11_1.png?v=1653049004",
+        "ml": "30",
+        "ins": `A luxurious makeup remover with neroli and lime extracts.
+        Wipes away stubborn makeup with one swipe.
+        A rich balm that deep cleans & also nourishes the skin deeply.
+        Contains coconut, almond, macadamia & argan. Melts instantly on contact with the skin.`,
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Hydration-PACKAGING-BOX-1_360x.jpg?v=1610017453",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/MeltAwayMakeupRemoverBalm_360x.jpg?v=1610017453",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Hydration-PACKAGING-BOX-1_360x.jpg?v=1610017453",
+        "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/MeltAwayMakeupRemoverBalm_360x.jpg?v=1610017453",
+        "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Hydration-PACKAGING-BOX-1_360x.jpg?v=1610017453",
+        "filter": "exfoliators",
         "sort": "manual"
     },
     {
@@ -2944,7 +3579,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -2960,7 +3595,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -2976,7 +3611,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -2992,7 +3627,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3008,7 +3643,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3024,7 +3659,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3040,7 +3675,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3056,7 +3691,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3072,7 +3707,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3088,7 +3723,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3104,7 +3739,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3120,7 +3755,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3136,7 +3771,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3152,7 +3787,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3168,7 +3803,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3184,7 +3819,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3200,7 +3835,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3216,7 +3851,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3232,7 +3867,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3248,7 +3883,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3264,7 +3899,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3280,7 +3915,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3296,7 +3931,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3312,7 +3947,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3328,7 +3963,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3344,7 +3979,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3360,7 +3995,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3376,7 +4011,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3392,7 +4027,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3408,7 +4043,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3424,7 +4059,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3440,7 +4075,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3456,7 +4091,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3472,7 +4107,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3488,7 +4123,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3504,7 +4139,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3520,7 +4155,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3536,7 +4171,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
@@ -3552,503 +4187,7 @@ let data = [
         "simg5": "",
         "simg6": "",
         "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
-    },
-    {
-        "img": "",
-        "det": "",
-        "Mprice": "",
-        "Dprice": "",
-        "Limg": "",
-        "ml": "",
-        "ins": "",
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
-        "simg5": "",
-        "simg6": "",
-        "filter": "",
-        "sort": ""
+        "sort": "manual"
     },
     {
         "img": "",
