@@ -6,7 +6,7 @@ Hello everyone, we are a group of 6 members building dot & key clone in our cons
 - Search products by names.
 - Sort & filter by many options.
 - Responsive webpage.
-- Get a smooth experience in payment & login / signup process.
+- Get a smooth experience in payment , login & signup process.
 
 ## Tech Stack
 
