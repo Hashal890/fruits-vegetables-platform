@@ -1,0 +1,42 @@
+#Rcontainer{
+    width: 91%;
+    border: 1px black solid;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 30px;
+}
+.cimg{
+    width: 100%;
+}
+.parent{
+    text-align: center;
+}
+.det{
+    width: 80%;
+    margin-top: 5px;
+    font-size: 18px;
+    margin: auto;
+    font-weight: 10px;
+    /* height: 20px!important; */
+    line-height: 1.2em !important;
+    
+}
+.mprice{
+    margin-top: 5px;
+    color: gray;
+    text-decoration: line-through;
+}
+.dprice{
+    margin-top: -10px;
+    color: rgb(197, 49, 140);
+}
+.Rbtn{
+    width: 90%;
+    height: 38px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.589);
+    border: 0px;
+    font-size: medium;
+    font-weight: bold;
+}
