@@ -1,10 +1,23 @@
-# Dot & Key Clone
+## Dot & Key Clone
 Hello everyone, we are a group of 6 members building dot & key clone in our construct week at Masai School.
 
+## Features
 
-# Authors
+- Search products by names.
+- Sort & filter by many options.
+- Responsive webpage.
+- Get a smooth experience in payment , login & signup process.
 
-### Github
+## Tech Stack
+
+[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML),
+[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS),
+[JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript),
+[Bootstrap](https://developer.mozilla.org/en-US/docs/Glossary/Bootstrap).
+
+## Authors
+
+#### Github
 
 - [Harshal Pardeshi](https://github.com/Hashal890)
 - [Rohit Mourya](https://github.com/MrRohitMI)
@@ -14,7 +27,7 @@ Hello everyone, we are a group of 6 members building dot & key clone in our cons
 - [Swapnil Gote](https://github.com/Swwapnil123)
 
 
-### LinkdIn
+#### LinkdIn
 
 - [Harshal Pardeshi](https://www.linkedin.com/in/harshalpardeshi/)
 - [Rohit Mourya]()
