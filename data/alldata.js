@@ -7276,6 +7276,8 @@ let data = [
     }
 ]
 
-return JSON.stringify(data);
+let getData = ()=>{
+    return JSON.stringify(data);
+}
 
-export default data;
+export default getData;
