@@ -100,6 +100,7 @@ let data = JSON.parse(getData());
 console.log(data)
 
 let display=(data)=>{
+    document.querySelector("#Rcontainer").innerHTML=null;
     data.forEach(el => {
         let parent=document.createElement("div");
         parent.setAttribute("class","parent");
@@ -108,10 +109,15 @@ let display=(data)=>{
         })
         let img=document.createElement("img");
         img.src=el.img;
+        img.onerror = ()=>{
+            parent.style.display="none";
+        }
         img.setAttribute("class","cimg")
         let det=document.createElement("p");
         det.innerText=el.det;
         det.setAttribute("class","det");
+        let price=document.createElement("div")
+        price.setAttribute("class","Rprice")
         let mprice=document.createElement("p");
         mprice.innerText="Rs: "+el.Mprice;
         mprice.setAttribute("class","mprice");
@@ -121,15 +127,96 @@ let display=(data)=>{
         let Rbtn=document.createElement("button");
         Rbtn.innerText=`ADD TO CART`;
         Rbtn.setAttribute("class","Rbtn");
-        parent.append(img,det,mprice,dprice,Rbtn);
+        price.append(mprice,dprice)
+        parent.append(img,det,price,Rbtn);
         document.querySelector("#Rcontainer").append(parent);
+        })
+       
 
         
-    });
+  
 }
 display(data)
+document.querySelector("#Rfilter").addEventListener("change",filter)
+function filter(){
+    let sel=document.querySelector("#Rfilter").value;
+    if(sel=="")
+    {
+        display(data)
+    }
+    else
+    {
+    let filteredData=data.filter(function(el){
+        return el.filter==sel;
+    })
+    display(filteredData)
+    }
+}
+document.querySelector("#Rsort").addEventListener("change",sort)
+function sort(){
+    let sel=document.querySelector("#Rsort").value;
+    if(sel=="price-ascending")
+    {
+        data.sort(function(a,b){
+            return a.Dprice-b.Dprice;
+        })
+        display(data)
+    }
+    if(sel=="price-descending")
+    {
+        data.sort(function(a,b){
+            return b.Dprice-a.Dprice
+        })
+        display(data)
+    }
+    if(sel=="title-ascending")
+    {
+         data.sort(function(a,b){
+            if(a.det<b.det)
+            {
+                return -1;
+            }
+            if(b.name>a.name)
+            {
+                return 1;
+            }
+            return 0;
+         })
+         display(data)
+    }
+    if(sel=="title-descending")
+    {
+         data.sort(function(a,b){
+            if(a.det>b.det)
+            {
+                return -1;
+            }
+            if(b.name<a.name)
+            {
+                return 1;
+            }
+            return 0;
+         })
+         display(data)
+    }
+    if(sel=="manual")
+    {
+        let featuredData=data.filter(function(el){
+            return el.sort=="manual";
+        })
+        display(featuredData)
+    }
+    if(sel=="best-selling")
+    {
+        let bestData=data.filter(function(el){
+            return el.sort=="best-selling";
+        })
+        display(bestData)
+    }
+}
 function myproduct(el){
     console.log(el);
     localStorage.setItem("product",JSON.stringify(el));
+    window.location.href="./solo.html"
 
 }
