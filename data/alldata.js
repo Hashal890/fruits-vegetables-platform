@@ -7276,6 +7276,20 @@ let data = [
     }
 ]
 
-return JSON.stringify(data);
+let getData = ()=>{
+    let resData = [];
+    let resData1=[];
+    for(let i=0;i<data.length;i++){
+        if(!resData1.includes(data[i].det))
+        {
+        resData1.push(data[i].det)
+        resData.push(data[i]);
+        }
+    }
+    // console.log(resData)
+    // console.log(data)
+    return JSON.stringify(resData);
+}
+// getData()
 
-export default data;
+export default getData;

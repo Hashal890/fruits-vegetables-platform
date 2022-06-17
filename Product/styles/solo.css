@@ -1,7 +1,7 @@
 #Rcontainer{
     width: 91%;
     /* border: 1px solid black; */
-    height: 1000px;
+    /* height: 1000px; */
     margin: auto;
     display: flex;
     justify-content: space-between;
