@@ -10,7 +10,70 @@
 <body>
     <div id="Rnav"></div>
     <div id="Rcontainer"></div>
-    
+    <div id="RBnav">
+        <div id="Rselect">
+        <select required name="Filter" id="Rfilter">
+        <option value="">Filter</option>
+        <option value="acne-control">Acne Control</option>
+        <option value="acne-prone-skin">Acne Prone Skin</option>
+        <option value="activeacne">activeAcne</option>
+        <option value="age-defense">Age Defense</option>
+        <option value="bundle">bundle</option>
+        <option value="cica">CICA</option>
+        <option value="clay-masks">Clay Masks</option>
+        <option value="cleanse-cica-calming-blemish-clearing-face-wash">cleanse:cica-calming-blemish-clearing-face-wash</option>
+        <option value="cleanse-watermelon-super-glow-facial-gel-cleanser">cleanse:watermelon-super-glow-facial-gel-cleanser</option>
+        <option value="cleanser">Cleanser</option>
+        <option value="combination-skin">Combination Skin</option>
+        <option value="congested-skin">Congested Skin</option>
+        <option value="daily-essentials">Daily Essentials</option>
+        <option value="dark-spots">Dark Spots</option>
+        <option value="dry-skin">Dry Skin</option>
+        <option value="dryacne">dryAcne</option>
+        <option value="dryness-and-repair">Dryness And Repair</option>
+        <option value="exfoliators">Exfoliators</option>
+        <option value="face-wash">Face Wash</option>
+        <option value="haircare">haircare</option>
+        <option value="hydration">Hydration</option>
+        <option value="lip-care">Lip Care</option>
+        <option value="mature-skin">Mature Skin</option>
+        <option value="moisturize-cica-calming-skin-renewing-night-gel">moisturize:cica-calming-skin-renewing-night-gel</option>
+        <option value="moisturize-vitamin-c-e-super-bright-moisturizer">moisturize:vitamin-c-e-super-bright-moisturizer</option>
+        <option value="moisturizer">Moisturizer</option>
+        <option value="new-drops">new-drops</option>
+        <option value="normal-skin">Normal Skin</option>
+        <option value="oily-skin">Oily Skin</option>
+        <option value="postacne">postAcne</option>
+        <option value="proneacne">proneAcne</option>
+        <option value="sensitive-skin">Sensitive Skin</option>
+        <option value="serums-and-oils">Serums And Oils</option>
+        <option value="skin-glow">Skin Glow</option>
+        <option value="sleeping-mask">Sleeping Mask</option>
+        <option value="summer-picks">Summer Picks</option>
+        <option value="sunscreen">Sunscreen</option>
+        <option value="swim-care">Swim Care</option>
+        <option value="tone-cica-calming-skin-clarifying-toner">tone:cica-calming-skin-clarifying-toner</option>
+        <option value="tone-watermelon-superglow-pore-tightening-toner">tone:watermelon-superglow-pore-tightening-toner</option>
+        <option value="toners">Toners</option>
+        <option value="treat-dot-key-20-vitamin-c-freshly-made-face-serum">treat:dot-key-20-vitamin-c-freshly-made-face-serum</option>
+        <option value="treat-niacinamide-spot-corrector-serum">treat:niacinamide-spot-corrector-serum</option>
+        <option value="uneven-tone">Uneven Tone</option>
+        <option value="valentine">valentine</option>
+        <option value="winter-pick">winter-pick</option>
+        
+    </select>
+    <select required name="SortBy" id="Rsort">
+        <option value="title-ascending" selected="selected">Sort</option>
+        <option value="manual">Featured</option>
+        <option value="best-selling">Best selling</option>
+        <option value="title-ascending">Alphabetically, A-Z</option>
+        <option value="title-descending">Alphabetically, Z-A</option>
+        <option value="price-ascending">Price, low to high</option>
+        <option value="price-descending">Price, high to low</option>
+        <option value="created-ascending">Date, old to new</option>
+        <option value="created-descending">Date, new to old</option>
+    </select></div>
+    </div>
 </body>
 <script src="./scripts/products.js" type="module"></script>
 </html>

@@ -7311,16 +7311,14 @@ let data = [
 ]
 
 let getData = ()=>{
-    let resData=[],present=false;
+    let resData=[],resData1=[];
     for(let i=0;i<data.length;i++){
-        for(let j=0;j<resData.length;j++){
-            if(data[i].det==resData[j].det){
-                present = true;
-                break;
-            }
+        if(!resData1.includes(data[i].det)){
+            resData1.push(data[i].det)
+            resData.push(data[i]);
         }
-        if(present==false) resData.push(data[i]);
     }
+    // console.log(resData,data)
     return JSON.stringify(resData);
 }
 
