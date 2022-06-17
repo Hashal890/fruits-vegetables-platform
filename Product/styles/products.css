@@ -30,9 +30,10 @@
 .Rprice{
     margin: auto;
     display: flex;
-    width: 50%;
-    justify-content: space-between;
+    width: 60%;
+    gap:10px;
     margin-top: -10px;
+    margin-left: 27%;
 }
 .mprice{
     /* margin-top: 5px; */
