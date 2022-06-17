@@ -77,3 +77,20 @@ limg.src=prd.Limg;
 limg.setAttribute("id","limg")
 document.querySelector("#RBGimg").append(limg);
 
+//add button
+  document.querySelector("#Raddbtn").addEventListener("click",function(){
+    product(prd)
+  })
+  function product(prd){
+    console.log(prd);
+    localStorage.setItem("cartproduct",JSON.stringify(prd))
+  }
+
+
+  document.querySelector("#RSbutton").addEventListener("click",function(){
+    product(prd)
+  })
+  function product(prd){
+    console.log(prd);
+    localStorage.setItem("cartproduct",JSON.stringify(prd))
+  }

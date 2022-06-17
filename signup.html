@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=1, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./styles/signandcreate.css">
+    <link rel="stylesheet" href="./styles/navbar.css">
+
+    <script src="https://kit.fontawesome.com/4cb1a40bcb.js" crossorigin="anonymous"></script>
+    
+    <style>
+        .sign div+input{
+            background-color: #e5ba61;
+            color: black;
+            border: none;
+            padding: 10px;
+            width: 100%;
+            font-size: 1.1em;
+            font-weight: 400;
+        }
+        
+    </style>
+</head>
+<body>
+
+    <div id="navbar">
+
+      </div>
+   <div class="sign">
+        <h1>Login</h1>
+        <button><a href="https://www.facebook.com/"><i class="fa-brands fa-facebook-f"></i><span>Facebook Login</span></a></button>
+        <button><a href="https://www.google.com/gmail"><i class="fa-brands fa-google"></i><span>Google Login</span></a></button>
+        <form >
+            <p class="p">Email Address</p>
+            <input type="email" placeholder="" id="email">
+            <div id="sign_div">
+                <p class="p">Password</p>
+                <a href="#"><span>Forget?</span></a>
+            </div>
+            
+            <input type="password" name="" id="password" placeholder="">
+            <input type="submit" value="Sign In" id="">
+
+        </form>
+        <a href="login.html"><p>Don't have an account?Sign up here.</p></a>
+
+    </div>
+    <div id="mainfooter">
+        
+    </div>
+</body>
+</html>
+
+<script type="module">
+    import { navbar,footer } from "./components/navbar.js"
+    let nav= document.getElementById("navbar").innerHTML=navbar()
+    let foot= document.getElementById("mainfooter").innerHTML=footer()
+
+   
+</script>
+<script src="./script/signout.js"></script>
+<script src="./script/navbaar.js"></script>
