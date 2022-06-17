@@ -4,15 +4,15 @@ function navbar(){
 <div class="dropdown">
   <button onclick="dropdownFunction()" class="dropbtn"><i class="fa-solid fa-align-left left_i"></i></button>
   <div id="myDropdown" class="dropdown-content">
-    <a href="#">WHAT'S NEW?</a>
-    <a href="#">PARTY TOP PICKS</a>
-    <a href="#">BEST SELLERS</a>
-    <a href="#">SHOP BY INGREDIENTS</a>
-    <a href="#">SHOP BY CONCERN</a>
-    <a href="#">SHOP ALL PRODUCTS</a>
-    <a href="#">HAIR CARE</a>
-    <a href="#">BODY CARE</a>
-    <a href="#">IKWI NUTRITION</a>
+    <a href="../Product/products.html">WHAT'S NEW?</a>
+    <a href="../Product/products.html">PARTY TOP PICKS</a>
+    <a href="../Product/products.html">BEST SELLERS</a>
+    <a href="../Product/products.html">SHOP BY INGREDIENTS</a>
+    <a href="../Product/products.html">SHOP BY CONCERN</a>
+    <a href="../Product/products.html">SHOP ALL PRODUCTS</a>
+    <a href="../Product/products.html">HAIR CARE</a>
+    <a href="../Product/products.html">BODY CARE</a>
+    <a href="../Product/products.html">IKWI NUTRITION</a>
   </div>
 </div>
 </div>
@@ -21,9 +21,9 @@ function navbar(){
 </div>
 <div id="right_side">
     <input id="right_input" type="text" placeholder="Search">
-    <a href="#"><i class="fa-solid fa-cart-plus right_i"></i></a>
-    <a href="./checkout.html"><i class="fa-solid fa-location-dot right_i"></i></a>
-    <a href="./signup.html"><i class="fa-solid fa-user right_i"></i></a>
+    <a href="../Cart/cart.html"><i class="fa-solid fa-cart-plus right_i"></i></a>
+    <a href="#"><i class="fa-solid fa-location-dot right_i"></i></a>
+    <a href="../Udit/signup.html"><i class="fa-solid fa-user right_i"></i></a>
 </div>
 </div>
 <hr>`

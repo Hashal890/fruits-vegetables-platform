@@ -1,0 +1,147 @@
+
+#cart-cont{
+    width : 20%;
+    border : 2px solid red;
+    margin-right : 0px;
+    padding : 20px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#cart-bag-cont > div{
+    display :flex;
+    gap : 10px;
+    /* border : 1px solid red; */
+    align-items: center;
+}
+
+#cart-item-qty{
+    color: #ff6781;
+}
+
+#free-prod-msg{
+    color: #ff6781;
+    margin : 20px;
+    text-align: center;
+    font-size: 13px;
+}
+
+#free-minis{
+    align-items: center;
+}
+
+#cart-bag-cont{
+    display : flex;
+    justify-content: space-between;
+    /* border : 1px solid red; */
+}
+
+#cart-close > img{
+    width : 15px;
+    height : 15px;
+}
+
+#cart-product{
+    height : 330px;
+    /* border : 1px solid black; */
+    overflow: scroll;
+    /* scroll-margin:initial ; */
+}
+
+#cart-product::-webkit-scrollbar{
+    display: none;
+}
+
+#cart-total-amount{
+    display: flex;
+    justify-content: space-between;
+}
+
+#bag-product{
+    display : flex;
+    gap : 10px;
+    color: #3c3c3c;
+}
+
+#bag-product > img{
+    width : 60px;
+    height : 60px;
+}
+
+#prod-pr-qty{
+    display: flex;
+    /* border : 1px solid red; */
+    align-items: center;
+    justify-content: end;
+    gap : 30px;
+}
+
+#prod-pr-qty > p{
+    margin-right : 20px;
+}
+
+#prod-qty{
+    display: flex;
+}
+
+#prod-qty > div{
+    border : 1px solid grey;
+    width : 20px;
+    height : 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#prod-qty > div:nth-child(2){
+    width : 40px;
+}
+
+#mm-remove{
+    cursor: pointer;
+}
+
+#mm-price{
+    color: #ff6781;
+}
+
+#mm_checkout{
+    width : 100%;
+    background-color: #7b7b7b;
+    border : 0px;
+    padding : 9px 30px;
+}
+
+#mm_checkout > a{
+    color: #fff;
+    font-size: 17px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+#mm-purchase{
+    color: #ff6781;
+    font-size: 13px;
+}
+
+#free-shipping{
+    color: #3c3c3c;
+    font-size : 13px;
+    text-align: start;
+}
+
+#mm-add-qty{
+    cursor: pointer;
+}
+
+#mm-subtract-qty{
+    cursor: pointer;
+}
+
+#mm-add-qty :hover{
+color : white;
+background-color: black;
+}

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="cart.css">
+    <title>Cart</title>
+</head>
+<body>
+
+<div id="cart-cont">
+
+    <div id="cart-bag-cont">
+        
+        <div id="cart-bag">
+            <h3>Bag</h3>
+            <h3 id="cart-item-qty"></h3>
+        </div>
+
+        <div id="cart-close">
+        <img src="https://img.icons8.com/external-becris-lineal-becris/2x/external-cancel-mintab-for-ios-becris-lineal-becris.png" alt="cancel sign">
+        </div>
+
+    </div>
+
+    <hr>
+
+    <div id="free-prod-msg"></div>
+    <a href="#" id="free-minis"></a>
+
+    <hr>
+
+    <div id="cart-product"></div>
+
+    <hr>
+
+    <div id="cart-total-amount">
+        <p>SUBTOTAL</p>
+        <p id="subtotal">0</p>
+    </div>
+
+    <p id="free-shipping">FREE SHIPPING OVER Rs.599/-</p>
+
+    <button id="mm_checkout"> <a href="index.html"> Checkout</a></button>
+
+    <p id="mm-purchase">100% Purchase Protection</p>
+    <div id="mm_payment"><img src="https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Group_2_71095016-e5c2-48f5-a50f-fbf011232ef2.png?v=1655301396" alt=""></div>
+
+    
+</div>
+    
+</body>
+</html>
+
+<script type="module">
+
+    import {cart_item,minis_msg,subtotal,cart_products} from "./cart.js";
+
+    cart_item();
+    minis_msg();
+   // let data = JSON.parse(localStorage.getItem("productData")) || [];
+    subtotal();
+    cart_products();
+
+    let cart_cont = document.getElementById("cart-cont");
+
+document.getElementById("cart-close").addEventListener("click",mm_remove_cart);
+
+function mm_remove_cart(){
+    event.preventDefault();
+   cart_cont.remove();
+}
+
+</script>

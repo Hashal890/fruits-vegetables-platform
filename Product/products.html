@@ -6,10 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="./styles/products.css">
+    <link rel="stylesheet" href="../Udit/styles/navbar.css">
+    <script src="https://kit.fontawesome.com/4cb1a40bcb.js" crossorigin="anonymous"></script>
 </head>
 <body>
+    <div id="navbar"></div>
     <div id="Rnav"></div>
     <div id="Rcontainer"></div>
+    <div id="mainfooter"></div>
     <div id="RBnav">
         <div id="Rselect">
         <select required name="Filter" id="Rfilter">
@@ -76,4 +80,11 @@
     </div>
 </body>
 <script src="./scripts/products.js" type="module"></script>
+
+<script type="module">
+    import { navbar,footer } from "../components/navbar.js"
+    let nav= document.getElementById("navbar").innerHTML=navbar()
+    let foot= document.getElementById("mainfooter").innerHTML=footer()
+</script>
+<script src="../Udit/script/navbaar.js"></script>
 </html>

@@ -1,5 +1,7 @@
 let prd=JSON.parse(localStorage.getItem("product"));
-console.log(prd);
+//console.log(prd);
+
+
 let bimg=document.createElement("img");
 bimg.src=prd.img;
 bimg.setAttribute("id","bimg")
@@ -78,19 +80,27 @@ limg.setAttribute("id","limg")
 document.querySelector("#RBGimg").append(limg);
 
 //add button
+
+
   document.querySelector("#Raddbtn").addEventListener("click",function(){
     product(prd)
   })
+
+  let cart_array = JSON.parse(localStorage.getItem("cartproduct")) || []; // created new array for cart products
+
   function product(prd){
-    console.log(prd);
-    localStorage.setItem("cartproduct",JSON.stringify(prd))
+  prd["qty"] = q;
+    console.log(prd)
+    cart_array.push(prd);
+    console.log(cart_array);
+    localStorage.setItem("cartproduct",JSON.stringify(cart_array))
   }
 
 
-  document.querySelector("#RSbutton").addEventListener("click",function(){
-    product(prd)
-  })
-  function product(prd){
-    console.log(prd);
-    localStorage.setItem("cartproduct",JSON.stringify(prd))
-  }
+  // document.querySelector("#RSbutton").addEventListener("click",function(){
+  //   product(prd)
+  // })
+  // function product(prd){
+  //   cart_array.push(prd);
+  //   localStorage.setItem("cartproduct",JSON.stringify(cart_array))
+  // }
