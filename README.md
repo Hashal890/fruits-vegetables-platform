@@ -30,7 +30,7 @@ Hello everyone, we are a group of 6 members building dot & key clone in our cons
 #### LinkdIn
 
 - [Harshal Pardeshi](https://www.linkedin.com/in/harshalpardeshi/)
-- [Rohit Mourya]()
+- [Rohit Mourya](https://www.linkedin.com/in/rohit-mourya/)
 - [Gaurav Mishra]()
 - [Udit Varshney](https://www.linkedin.com/in/udit-varshney-ba678121b/)
 - [Mohammad Momin](https://www.linkedin.com/in/momin-mohammad-102304171/)
