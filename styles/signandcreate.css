@@ -1,0 +1,126 @@
+.sign{
+    width: 350px;
+    height: auto;
+    /* border: 2px solid black; */
+    margin:  auto ;
+    text-align: center;
+    padding: 20px;
+}
+.sign button{
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    font-size: 15px;
+   
+    background-color: #4267B2;
+    margin: auto;
+    margin-bottom: 4px;
+}
+.sign button a{
+    text-decoration: none;
+    color: #fff;
+}
+.sign button i{
+    margin-left: -120px;
+    font-size: 17px;
+}
+.sign button:nth-child(2)>i{
+    margin-left: -250px;
+}
+.sign button:nth-child(3){
+    background-color: #dd4b39;
+}
+.sign button span{
+    margin-left: 100px;
+    /* padding-left: 180px; */
+    text-align: center;
+}
+
+.p{
+    color: #3c3c3c;
+    font-size: 17px;
+    font-family: "Montserrat",sans-serif;
+    font-weight: 700;
+    letter-spacing: 0em;
+    line-height: 1.4;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    font-size: .72222em;
+}
+.sign h1{
+    font-weight: 700;
+    font-family: "Ubuntu",sans-serif;
+    margin-bottom: 0;
+    font-size: 1.5em;
+    display: block;
+    letter-spacing: 0em;
+    line-height: 1.4;
+    color: #3c3c3c;
+    margin-bottom: 50px;
+
+}
+.sign input{
+    width: 93%;
+    padding: 10px;
+    margin-bottom: 10px;
+
+}
+#password{
+    width: 93%;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    border: 0.2px solid rgb(40, 38, 38);
+}
+.sign #password+input{
+    background-color: #3c3c3c;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    font-size: 1.1em;
+    font-weight: 400;
+    margin-top: 20px;
+
+}
+#sign_div{
+    display: flex;
+    justify-content: space-between;
+}
+#sign_div>a{
+    text-decoration: none;
+    color: #3c3c3c;
+    margin-top: 5px;
+    font-family: "Ubuntu",sans-serif;
+}
+.hr-login span {
+position: relative;
+top: -12px;
+display: inline-block;
+background-color: #fff;
+text-align: center;
+font-size: 16px;
+padding: 0 20px;
+color: #282828;
+
+}
+.sign>form+a{
+    text-decoration: none;
+    color: #3c3c3c;
+    font-size: 20px;
+    font-family: "Ubuntu",sans-serif;
+    letter-spacing: .05em;
+    line-height: 1.9;
+    font-size: 18px;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeSpeed;
+    text-align: left;
+
+}
+
+.sign .p{
+    text-align: start;
+    margin-bottom: 10px;
+}

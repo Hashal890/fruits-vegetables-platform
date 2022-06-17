@@ -1,0 +1,123 @@
+#checkout{
+    width: 100%;
+    height: auto;
+    /* border: 2px solid black; */
+    display: flex;
+    margin: auto;
+    font-family: "Lato", sans-serif;
+}
+.inside_checkout1{
+    width: 45%;
+    height: auto;
+    /* border: 2px solid blue; */
+    margin: auto;
+}
+.inside_checkout{
+    width: 45%;
+    height: 750px;
+    /* border: 2px solid blue; */
+    margin: auto;
+}
+#pb{
+    display: flex;
+    /* border: 2px solid black; */
+    /* text-align: center; */
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+    
+}
+.udit_p{
+    font-size: 18px;
+}
+.udit_p2{
+    font-size: 13px;
+}
+#pb>p{
+    margin-right: 10px;
+}
+#pb>i{
+    /* border: 2px solid green; */
+    margin-right: 10px;
+    color: #787878;
+}
+.inside_checkout1 a>img{
+    width: 30%;
+    margin-left: 35%;
+
+}
+#cnt{
+    display: flex;
+    justify-content: space-between;
+}
+input{
+    border-radius: 5px;
+    border: 1px solid #cac6c6;
+
+}
+.input{
+    width: 95.5%;
+    padding: 10px;
+    margin-bottom: 7px;
+    border: 1px solid #cac6c6;
+
+}
+select{
+    border-radius: 5px;
+    width: 95.5%;
+}
+#inp_p{
+    display: flex;
+    /* border: 2px solid grey */
+}    
+#checkbox{
+    /* margin-left: -250px; */
+    margin-top: 19px;
+    border: 1px solid #cac6c6;
+}
+#inp_p>#checkbox+p{
+    color: #787878;
+}
+#firstname{
+    display: flex;
+    justify-content: space-between;
+    /* margin-top: 5px; */
+    margin-bottom: 7px;
+}
+.inp{
+    width: 45%;
+    padding: 10px;
+}
+.inp1{
+    width: 27%;
+    padding: 10px;
+}
+#inp_p1{
+    /* border: 2px solid black; */
+    display: flex;
+    align-items: center;
+
+
+}
+#inp_p1>i{
+    margin-right: 10px;
+}
+#inp_p1>button{
+    padding: 20px;
+    background-color:  #616160;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 50%;
+}
+#inp_p1+hr{
+    border: 0.5px solid #efebeb;
+}
+#refund{
+    display: flex;
+    /* border: 2px solid black; */
+    color: #ff8091;
+}
+#refund>p{
+    margin-right: 10px;
+}
