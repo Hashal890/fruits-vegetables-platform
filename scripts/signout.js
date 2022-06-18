@@ -13,7 +13,7 @@ var form=document.querySelector("form").addEventListener("submit",function(event
     else if(userCreds.email===data.email && userCreds.password ==data.password){
         alert("Sign is Successfull")
         localStorage.setItem("signin",JSON.stringify(data))
-        window.location.href="#"
+        window.location.href="./index.html"
     }
     else{
         alert("User Does not Exist")
