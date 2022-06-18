@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="./styles/checkout.css">
 </head>
 <body>
-    <div id="checkout">
+    <form id="checkout">
         <div class="inside_checkout1">
             <a href="#"><img src="https://cdn.shopify.com/s/files/1/0361/8553/8692/files/unnamed_250x_200x_2x_260x_24408e11-6e3a-4a0c-8327-74d0455f7696_260x.jpg?v=1646547348" alt=""></a>
             <div id="pb">
@@ -29,14 +29,15 @@
                 <div>
                 </div>
             </div>
-            <input class="input" type="text" placeholder="Udit123@gmail.com">
+            <input class="input" type="text" placeholder="Udit123@gmail.com" required>
             <div id="inp_p">
-                <input id="checkbox" type="checkbox">
+                <input id="checkbox" type="checkbox" required>
                 <p class="udit_p2">	Keep me up to date on news and exclusive offers</p>
             </div>
             <p class="udit_p">Shipping address</p>
             <form >
-                <select class="input">
+                <select class="input" required>
+                    <option value="">Country</option>
                     <option value="">India</option>
                     <option value="">United Arab Emirates</option>
                     <option value="">Pakistan</option>
@@ -54,31 +55,31 @@
                     <option value="">Nepal</option>
                 </select>
                 <div id="firstname">
-                    <input class="inp" type="text" placeholder="First Name">
-                    <input style="margin-right: 9px;" class="inp" type="text" placeholder="Last Name" >
+                    <input class="inp" type="text" placeholder="First Name" required>
+                    <input style="margin-right: 9px;" class="inp" type="text" placeholder="Last Name" required>
                 </div>
-                <input class="input" type="text" placeholder="Address">
-                <input class="input" type="text" placeholder="Apartment. Suit, etc.(Optional)">
+                <input class="input" type="text" placeholder="Address" required>
+                <input class="input" type="text" placeholder="Apartment. Suit, etc.(Optional)" required>
                 <div id="firstname">
-                    <input class="inp1" type="text" placeholder="City">
-                    <input class="inp1" type="text" placeholder="State">
-                    <input style="margin-right: 9px;" class="inp1" type="number" placeholder="pincode">
+                    <input class="inp1" type="text" placeholder="City" required>
+                    <input class="inp1" type="text" placeholder="State" required>
+                    <input style="margin-right: 9px;" class="inp1" type="number" placeholder="pincode" required>
                 </div>
-                <input class="input" type="number" placeholder="Phone">
+                <input class="input" type="number" placeholder="Phone" required>
                 <div id="inp_p">
-                    <input id="checkbox" type="checkbox">
+                    <input id="checkbox" type="checkbox" required>
                     <p>	Save this information for next time</p>
 
                 </div>
                 <div id="inp_p">
-                    <br><input id="checkbox" type="checkbox">
+                    <br><input id="checkbox" type="checkbox" required>
                     <p>Get Order Updates On WhatsApp</p>
                 </div>
             </form>
             <div id="inp_p1">
             <i style="color: #ff8091;" class="fa-solid fa-angle-left"></i>
             <p style="color: #ff8091;">Return to cart</p>
-            <button onclick="clickfunction()">Continue to Shipping</button>
+            <button>Continue to Shipping</button>
             </div>
             <hr>
             <div id="refund">
@@ -92,11 +93,15 @@
 
         </div>
 
-        <!-- momin added their page -->
-        <div id="product_page">
-
-        </div>
-    </div>
+    </form>
 </body>
 </html>
+<script>
+    let form= document.querySelector("form").addEventListener("submit",clickfunction)
+    function clickfunction(){
+        event.preventDefault()
+       alert("payment sucessfull")
+       window.location.href="./index.html"
+    }
+</script>
 

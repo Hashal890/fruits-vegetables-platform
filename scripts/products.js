@@ -94,7 +94,7 @@
 //     simg6:`https://cdn.shopify.com/s/files/1/0361/8553/8692/products/8_2_360x.jpg?v=1650465564`
 // }]
 
-import getData from "../../data/alldata.js";
+import getData from "./alldata.js";
 let data = JSON.parse(getData());
 
 console.log(data)

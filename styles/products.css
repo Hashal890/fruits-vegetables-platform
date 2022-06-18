@@ -27,6 +27,16 @@
     overflow: hidden;
     margin-bottom: 7px;
 }
+@media all and (min-width: 421px) and (max-width:765px){
+    #Rcontainer{
+      grid-template-columns: repeat(2,1fr);
+    }
+  }
+  @media all and (min-width:100px) and (max-width:420px){
+    #Rcontainer{
+        grid-template-columns: repeat(1,1fr);
+      }
+  }
 .Rprice{
     margin: auto;
     display: flex;

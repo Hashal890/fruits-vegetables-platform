@@ -94,13 +94,49 @@ document.querySelector("#RBGimg").append(limg);
     cart_array.push(prd);
     console.log(cart_array);
     localStorage.setItem("cartproduct",JSON.stringify(cart_array))
+    alert("product added to cart")
+    
   }
 
 
-  // document.querySelector("#RSbutton").addEventListener("click",function(){
-  //   product(prd)
-  // })
+  document.querySelector("#RSbutton").addEventListener("click",function(){
+    product(prd)
+  })
   // function product(prd){
+  //   console.log(prd)
   //   cart_array.push(prd);
+  //   console.log(cart_array);
   //   localStorage.setItem("cartproduct",JSON.stringify(cart_array))
+  //   alert("product added to cart")
   // }
+
+  document.querySelector("#RSimg>div:nth-child(1)").addEventListener("click",fun1)
+function fun1(){
+    
+       bimg.src=prd.img;
+      //  document.querySelector("RBimg").append(bimg);
+}
+document.querySelector("#RSimg>div:nth-child(2)").addEventListener("click",fun2)
+function fun2(){
+         bimg.src=prd.simg2;
+      //  document.querySelector("RBimg").append(bimg);
+}
+document.querySelector("#RSimg>div:nth-child(3)").addEventListener("click",fun3)
+function fun3(){
+       bimg.src=prd.simg3;
+      //  document.querySelector("RBimg").append(bimg);
+}
+document.querySelector("#RSimg>div:nth-child(4)").addEventListener("click",fun4)
+function fun4(){
+       bimg.src=prd.simg4;
+      //  document.querySelector("RBimg").append(bimg);
+}
+document.querySelector("#RSimg>div:nth-child(5)").addEventListener("click",fun5)
+function fun5(){
+       bimg.src=prd.simg5;
+      //  document.querySelector("RBimg").append(bimg);
+}document.querySelector("#RSimg>div:nth-child(6)").addEventListener("click",fun6)
+function fun6(){
+       bimg.src=prd.simg6;
+      //  document.querySelector("RBimg").append(bimg);
+}

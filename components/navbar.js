@@ -4,26 +4,26 @@ function navbar(){
 <div class="dropdown">
   <button onclick="dropdownFunction()" class="dropbtn"><i class="fa-solid fa-align-left left_i"></i></button>
   <div id="myDropdown" class="dropdown-content">
-    <a href="../Product/products.html">WHAT'S NEW?</a>
-    <a href="../Product/products.html">PARTY TOP PICKS</a>
-    <a href="../Product/products.html">BEST SELLERS</a>
-    <a href="../Product/products.html">SHOP BY INGREDIENTS</a>
-    <a href="../Product/products.html">SHOP BY CONCERN</a>
-    <a href="../Product/products.html">SHOP ALL PRODUCTS</a>
-    <a href="../Product/products.html">HAIR CARE</a>
-    <a href="../Product/products.html">BODY CARE</a>
-    <a href="../Product/products.html">IKWI NUTRITION</a>
+    <a href="./products.html">WHAT'S NEW?</a>
+    <a href="./products.html">PARTY TOP PICKS</a>
+    <a href="./products.html">BEST SELLERS</a>
+    <a href="./products.html">SHOP BY INGREDIENTS</a>
+    <a href="./products.html">SHOP BY CONCERN</a>
+    <a href="./products.html">SHOP ALL PRODUCTS</a>
+    <a href="./products.html">HAIR CARE</a>
+    <a href="./products.html">BODY CARE</a>
+    <a href="./products.html">IKWI NUTRITION</a>
   </div>
 </div>
 </div>
 <div id="dot_keylogo">
-    <a href="#"><img src="https://cdn.shopify.com/s/files/1/0361/8553/8692/files/unnamed_250x_200x_2x_260x_24408e11-6e3a-4a0c-8327-74d0455f7696_260x.jpg?v=1646547348" alt=""></a>
+    <a href="./index.html"><img src="https://cdn.shopify.com/s/files/1/0361/8553/8692/files/unnamed_250x_200x_2x_260x_24408e11-6e3a-4a0c-8327-74d0455f7696_260x.jpg?v=1646547348" alt=""></a>
 </div>
 <div id="right_side">
     <input id="right_input" type="text" placeholder="Search">
-    <a href="../Cart/cart.html"><i class="fa-solid fa-cart-plus right_i"></i></a>
+    <a href="./cart.html"><i class="fa-solid fa-cart-plus right_i"></i></a>
     <a href="#"><i class="fa-solid fa-location-dot right_i"></i></a>
-    <a href="../Udit/signup.html"><i class="fa-solid fa-user right_i"></i></a>
+    <a href="./signup.html"><i class="fa-solid fa-user right_i"></i></a>
 </div>
 </div>
 <hr>`
