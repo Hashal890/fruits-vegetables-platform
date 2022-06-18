@@ -29,6 +29,7 @@
     padding: 5px 40px;
     border-radius: 5px;
     border: 1px solid #e8e8e8;
+    /* margin-left: 150px; */
 }
 .left_i{
     color: #3c3c3c;
@@ -47,7 +48,7 @@
     color: #3c3c3c;
     font-size: 20px;
     margin-left:5px ;
-       
+    
 }
 
 #footer hr{

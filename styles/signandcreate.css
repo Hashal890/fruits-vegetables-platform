@@ -1,5 +1,5 @@
 .sign{
-    width: 350px;
+    width: 390px;
     height: auto;
     /* border: 2px solid black; */
     margin:  auto ;
@@ -61,13 +61,13 @@
 
 }
 .sign input{
-    width: 93%;
+    width: 100%;
     padding: 10px;
     margin-bottom: 10px;
 
 }
 #password{
-    width: 93%;
+    width: 100%;
     padding: 10px;
     margin-bottom: 10px;
     background-color: white;
@@ -96,14 +96,13 @@
 }
 .hr-login span {
 position: relative;
-top: -12px;
+top: -14px;
 display: inline-block;
 background-color: #fff;
 text-align: center;
 font-size: 16px;
 padding: 0 20px;
 color: #282828;
-
 }
 .sign>form+a{
     text-decoration: none;

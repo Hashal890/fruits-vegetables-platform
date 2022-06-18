@@ -1,5 +1,5 @@
-function navbar(){
-    return `<div id="inside_navbar">
+function navbar() {
+  return `<div id="inside_navbar">
     <div id="left_side">
 <div class="dropdown">
   <button onclick="dropdownFunction()" class="dropbtn"><i class="fa-solid fa-align-left left_i"></i></button>
@@ -17,19 +17,49 @@ function navbar(){
 </div>
 </div>
 <div id="dot_keylogo">
-    <a href="./index.html"><img src="https://cdn.shopify.com/s/files/1/0361/8553/8692/files/unnamed_250x_200x_2x_260x_24408e11-6e3a-4a0c-8327-74d0455f7696_260x.jpg?v=1646547348" alt=""></a>
+    <a href="./index.html"><img style="margin-left:130px;width:68%;" src="https://cdn.shopify.com/s/files/1/0361/8553/8692/files/unnamed_250x_200x_2x_260x_24408e11-6e3a-4a0c-8327-74d0455f7696_260x.jpg?v=1646547348" alt=""></a>
 </div>
 <div id="right_side">
-    <input id="right_input" type="text" placeholder="Search">
-    <a href="./cart.html"><i class="fa-solid fa-cart-plus right_i"></i></a>
-    <a href="#"><i class="fa-solid fa-location-dot right_i"></i></a>
+    <input id="right_input" type="text" style="margin-left:200px;margin-top:5px;" placeholder="Search">
+    <div class="offcanvas offcanvas-end" id="demo">
+        <div id="cart-cont">
+            <div id="cart-bag-cont">
+                <div id="cart-bag">
+                    <h3>Bag</h3>
+                    <h3 id="cart-item-qty"></h3>
+                </div>
+                <button type="button" class="btn-close" data-bs-dismiss="offcanvas"></button>
+            </div>
+            <hr>
+            <div id="free-prod-msg"></div>
+            <a href="#" id="free-minis"></a>
+            <hr>
+            <div id="cart-product"></div>
+            <hr>
+            <div id="cart-total-amount">
+                <p>SUBTOTAL</p>
+                <p id="subtotal">0</p>
+            </div>
+            <p id="free-shipping">FREE SHIPPING OVER Rs.599/-</p>
+            <button id="mm_checkout"> <a href="./checkout.html"> Checkout</a></button>
+            <p id="mm-purchase">100% Purchase Protection</p>
+            <div id="mm_payment">
+                <img src="https://cdn.shopify.com/s/files/1/0361/8553/8692/files/Group_2_71095016-e5c2-48f5-a50f-fbf011232ef2.png?v=1655301396" alt="">
+            </div>
+        </div>
+    </div>
+    <div" class="container-fluid mt-3">
+        <button onclick="cartData()" class="btn btn-primary" style="padding:0px 0px;background-color:white;font-size:20px;color:black;text-decoration:none;border:0px;margin-left:15px;margin-top:-18px;" id="cartLogo" type="button" data-bs-toggle="offcanvas" data-bs-target="#demo"><i class="fa-solid fa-cart-plus"></i></button>
+    </div>
+    
+    <a href="#" style="color:black;margin-right:-220px;font-size:20px;"><i class="fa-solid fa-location-dot"></i></a>
     <a href="./signup.html"><i class="fa-solid fa-user right_i"></i></a>
 </div>
 </div>
-<hr>`
+<hr>`;
 }
-function footer(){
-    return `<hr>
+function footer() {
+  return `<hr>
     <div id="footer">
         <div>
             <ul><h3>GET TO KNOW US</h3>
@@ -77,6 +107,6 @@ function footer(){
             <li>© 2022 Dot & Key</li>
         </ul>
         </div>
-    </div>`
+    </div>`;
 }
-export { navbar,footer }
+export { navbar, footer };

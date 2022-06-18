@@ -151,7 +151,7 @@ function remove_prod(index){
       data.splice(index,1);//***
 
       localStorage.setItem("cartproduct",JSON.stringify(data));//***
-      window.location.reload();
+    //   window.location.reload();
 }
 
 function reduce(el,div6){
@@ -160,7 +160,7 @@ function reduce(el,div6){
         div6.innerHTML--;
         el.qty = div6.innerHTML;
         subtotal();
-        localStorage.setItem("cartproduct",JSON.stringify(data));//***
+        localStorage.setItem("cartproduct",JSON.stringify(data));
     }
 }
 

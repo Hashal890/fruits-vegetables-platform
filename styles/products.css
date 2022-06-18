@@ -8,6 +8,7 @@
     grid-template-columns: repeat(4,1fr);
     gap: 30px;
     padding-bottom: 55px;
+    margin-top: 2%;
 }
 .cimg{
     width: 100%;

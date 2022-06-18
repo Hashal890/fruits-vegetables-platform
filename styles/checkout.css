@@ -72,7 +72,7 @@ select{
 }    
 #checkbox{
     /* margin-left: -250px; */
-    margin-top: 19px;
+    margin-top: 5px;
     border: 1px solid #cac6c6;
 }
 #inp_p>#checkbox+p{
