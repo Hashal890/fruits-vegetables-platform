@@ -18,7 +18,7 @@ In this project we used following tech stacks:-
 
 ### Authors
 
-#### Github
+#### Connect on Github:-
 
 - [Harshal Pardeshi](https://github.com/Hashal890)
 - [Rohit Mourya](https://github.com/MrRohitMI)
@@ -28,7 +28,7 @@ In this project we used following tech stacks:-
 - [Swapnil Gote](https://github.com/Swwapnil123)
 
 
-#### LinkdIn
+#### Connect on LinkdIn:-
 
 - [Harshal Pardeshi](https://www.linkedin.com/in/harshalpardeshi/)
 - [Rohit Mourya](https://www.linkedin.com/in/rohit-mourya/)
