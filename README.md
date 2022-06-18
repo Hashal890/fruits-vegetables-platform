@@ -14,7 +14,7 @@ In this project we used following tech stacks:-
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Bootstrap](https://developer.mozilla.org/en-US/docs/Glossary/Bootstrap)
+- [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 
 ### Authors
 
