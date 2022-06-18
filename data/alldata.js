@@ -727,7 +727,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/day-night_1800x1800_1_360x.png?v=1628595712",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/day-night_360x.jpg?v=1610086311",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/DaynIghtCombo2_1800x1800_d1b2b0dc-527b-4d18-adeb-dea166817e6e_360x.jpg?v=1629204803",
-        "filter": "age-defense",
+        "filter": "cleanse-watermelon-super-glow-facial-gel-cleanser",
         "sort": "manual"
     },
     {
@@ -747,7 +747,8 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1a_3_360x.jpg?v=1639046540",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_360x.jpg?v=1639046540",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1a_3_360x.jpg?v=1639046540",
-        "filter": "age-defense",
+        "filter": "cleanse-cica-calming-blemish-clearing-face-wash",
+        "filter" : "mature-skin",
         "sort": "manual"
     },
     {
@@ -767,7 +768,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4_2_360x.jpg?v=1644862670",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6_2_360x.jpg?v=1644862670",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/5_2_360x.jpg?v=1644862670",
-        "filter": "age-defense",
+        "filter": "cleanse-cica-calming-blemish-clearing-face-wash",
         "sort": "manual"
     },
     {
@@ -787,7 +788,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2a_360x.jpg?v=1639046585",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_0b03915d-fd45-4f70-b766-e80d87e99975_360x.jpg?v=1639046585",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2a_360x.jpg?v=1639046585",
-        "filter": "age-defense",
+        "filter": "cica",
         "sort": "manual"
     },
     {
@@ -811,7 +812,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/age3_1_360x.jpg?v=1647261960",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/age_1_360x.jpg?v=1647261958",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/age3_1_360x.jpg?v=1647261960",
-        "filter": "age-defense",
+        "filter": "cica",
         "sort": "manual"
     },
     {
@@ -853,6 +854,7 @@ let data = [
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard5_9eff0c59-1a61-4230-b77f-dfc49d2bee5a_360x.jpg?v=1649327378",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_0f431e19-6282-4e3c-8987-51859bf1275a_720x.jpg?v=1649327378",
         "filter": "bundle",
+        "filter" : "mature-skin",
         "sort": "manual"
     },
     {
@@ -872,7 +874,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6_2_360x.webp?v=1649159203",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3_10_360x.webp?v=1649159203",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/7_360x.webp?v=1649159203",
-        "filter": "bundle",
+        "filter": "hydration",
         "sort": "manual"
     },
     {
@@ -931,7 +933,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/howtouse_360x.jpg?v=1646476808",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/box_360x.jpg?v=1646476808",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-4_4_763d27a2-de17-476f-9058-0891cd25b094_360x.jpg?v=1646476808",
-        "filter": "bundle",
+        "filter": "hydration",
         "sort": "manual"
     },
     {
@@ -1195,7 +1197,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard4_936cb3f6-61b1-4295-91f6-83ee9cb454b7_360x.jpg?v=1649326809",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard5_865a8cb0-3aef-4c48-879c-a59ee47340f3_360x.jpg?v=1649326808",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_16adaf35-a138-4989-a2f0-e23e0dcd4578_720x.jpg?v=1649326809",
-        "filter": "cica",
+        "filter": "hydration",
         "sort": "manual"
     },
     {
@@ -1642,7 +1644,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1a_4_360x.jpg?v=1654086163",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_12_360x.jpg?v=1654086162",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1a_4_360x.jpg?v=1654086163",
-        "filter": "combination-skin",
+        "filter": "face-wash",
         "sort": "manual"
     },
     {
@@ -1680,7 +1682,7 @@ let data = [
         "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Swim-bottle-1_360x.jpg?v=1625468185",
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/swim-packaging-box-5_360x.jpg?v=1625468185",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/PreSwimSkinHair50ml_360x.jpg?v=1610018447",
-        "filter": "combination-skin",
+        "filter": "haircare",
         "sort": "manual"
     },
     {
@@ -1883,7 +1885,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard4_e209a800-a510-4ad4-9d1c-4c4d7ece3d77_360x.jpg?v=1649327378",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard5_9eff0c59-1a61-4230-b77f-dfc49d2bee5a_360x.jpg?v=1649327378",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_0f431e19-6282-4e3c-8987-51859bf1275a_720x.jpg?v=1649327378",
-        "filter": "daily-essentials",
+        "filter": "dryacne",
         "sort": "manual"
     },
     {
@@ -1902,7 +1904,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-18_360x.jpg?v=1644916747",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_5_360x.webp?v=1644916747",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_4_360x.webp?v=1644916747",
-        "filter": "daily-essentials",
+        "filter": "dryacne",
         "sort": "manual"
     },
     {
@@ -1922,7 +1924,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_4_7a306ce8-6ac4-4704-9284-aa5264e20546_360x.jpg?v=1646476826",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_7_360x.webp?v=1646476826",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_7_360x.webp?v=1646476826",
-        "filter": "daily-essentials",
+        "filter": "dryacne",
         "sort": "manual"
     },
     {
@@ -1942,7 +1944,7 @@ let data = [
         "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Lip-scrub-Image-2_360x.jpg?v=1646934795",
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Lipscrub_360x.jpg?v=1646934795",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_4_360x.jpg?v=1646934795",
-        "filter": "daily-essentials",
+        "filter": "dryacne",
         "sort": "manual"
     },
     {
@@ -1963,7 +1965,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_11_360x.webp?v=1644493946",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_11_360x.webp?v=1644493946",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_11_360x.webp?v=1644493946",
-        "filter": "daily-essentials",
+        "filter": "dryacne",
         "sort": "manual"
     },
     {
@@ -2002,7 +2004,7 @@ let data = [
         "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Hydration-PACKAGING-BOX-2_360x.jpg?v=1596008000",
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/67c71cd6722a4c2f93ecb2dcf8ce9c5e.thumbnail.0000000_360x.jpg?v=1612169253",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/HydraEssentialToningWater_360x.jpg?v=1610017074",
-        "filter": "daily-essentials",
+        "filter": "hydration",
         "sort": "manual"
     },
     {
@@ -2022,7 +2024,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Other-product-packaging-box-4HandCream_360x.jpg?v=1644862602",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/HandCream-Rose_360x.jpg?v=1644862602",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Other-product-packaging-box-4HandCream_360x.jpg?v=1644862602",
-        "filter": "daily-essentials",
+        "filter": "moisturize-cica-calming-skin-renewing-night-gel",
         "sort": "manual"
     },
     {
@@ -2042,7 +2044,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Other-product-packaging-box-3HandCream_360x.jpg?v=1638974908",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/HandCream-L_360x.jpg?v=1638974908",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Other-product-packaging-box-3HandCream_360x.jpg?v=1638974908",
-        "filter": "daily-essentials",
+        "filter": "moisturize-vitamin-c-e-super-bright-moisturizer",
         "sort": "manual"
     },
     {
@@ -2100,7 +2102,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Mint-packaging-box-2SkinAwakeningSerum_540x.jpg?v=1610017602",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/SkinAwakening_540x.jpg?v=1610017602",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Mint-packaging-box-2SkinAwakeningSerum_540x.jpg?v=1610017602",
-        "filter": "daily-essentials",
+        "filter": "moisturizer",
         "sort": "manual"
     },
     {
@@ -2182,7 +2184,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/5-Vit-C-Moisturizer-A_-Listing-NEW_a68179f3-06d5-4df3-9791-53a5ec8344bb_360x.jpg?v=1654320357",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6-Vit-C-Moisturizer-A_-Listing-NEW_5e706b58-9156-4b32-aa27-7c2f55f24451_360x.jpg?v=1654320357",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3-Vit-C-Moisturizer-A_-Listing-NEW_926129b3-e96c-485a-b5d7-db7f6df437b2_360x.jpg?v=1654856343",
-        "filter": "dry-skin",
+        "filter": "moisturizer",
         "sort": "manual"
     },
     {
@@ -2263,7 +2265,7 @@ let data = [
         "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Swim-bottle-1_360x.jpg?v=1625468185",
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/swim-packaging-box-5_360x.jpg?v=1625468185",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/PreSwimSkinHair50ml_360x.jpg?v=1610018447",
-        "filter": "dry-skin",
+        "filter": "haircare",
         "sort": "manual"
     },
     {
@@ -2456,7 +2458,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_26_360x.jpg?v=1651312321",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-2_c818942b-ef91-42a5-ae74-d9dacbc578d4_360x.jpg?v=1651312321",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_26_360x.jpg?v=1651312321",
-        "filter": "dry-skin",
+        "filter": "moisturizer",
         "sort": "manual"
     },
     {
@@ -2775,7 +2777,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/dullness_2_360x.jpg?v=1654145689",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/dullness2_2_360x.jpg?v=1654145688",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/dullness3_2_360x.jpg?v=1654145689",
-        "filter": "dry-skin",
+        "filter": "face-wash",
         "sort": "manual"
     },
     {
@@ -2840,7 +2842,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6_2_360x.webp?v=1649159203",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3_10_360x.webp?v=1649159203",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/7_360x.webp?v=1649159203",
-        "filter": "dryacne",
+        "filter": "face-wash",
         "sort": "manual"
     },
     {
@@ -2939,7 +2941,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4-Vit-C-Moisturizer-A_-Listing-NEW_8c98d559-c863-418e-8d3e-56479faa66e7_360x.jpg?v=1654320357",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/5-Vit-C-Moisturizer-A_-Listing-NEW_a68179f3-06d5-4df3-9791-53a5ec8344bb_360x.jpg?v=1654320357",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6-Vit-C-Moisturizer-A_-Listing-NEW_5e706b58-9156-4b32-aa27-7c2f55f24451_360x.jpg?v=1654320357",
-        "filter": "dryness-and-repair",
+        "filter": "exfoliators",
         "sort": "manual"
     },
     {
@@ -2960,7 +2962,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard4_a30e905c-fe74-4f4f-8e69-f18deeccd22a_360x.jpg?v=1649324721",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard5_5e89fbc9-bfd8-4bfb-8d4f-cc3ff1197c2b_360x.jpg?v=1649324721",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_9ceca45a-10b4-40ed-b077-28971a3c3775_720x.jpg?v=1649324721",
-        "filter": "dryness-and-repair",
+        "filter": "exfoliators",
         "sort": "manual"
     },
     {
@@ -2981,7 +2983,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard4_e209a800-a510-4ad4-9d1c-4c4d7ece3d77_360x.jpg?v=1649327378",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard5_9eff0c59-1a61-4230-b77f-dfc49d2bee5a_360x.jpg?v=1649327378",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_0f431e19-6282-4e3c-8987-51859bf1275a_720x.jpg?v=1649327378",
-        "filter": "dryness-and-repair",
+        "filter": "exfoliators",
         "sort": "manual"
     },
     {
@@ -3001,7 +3003,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3_11_360x.webp?v=1655311025",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/LIPMASK_360x.jpg?v=1655311025",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3_11_360x.webp?v=1655311025",
-        "filter": "dryness-and-repair",
+        "filter": "exfoliators",
         "sort": "manual"
     },
     {
@@ -3021,7 +3023,7 @@ let data = [
         "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4_10_37a8089c-d4ca-4f0a-b9f8-3bdcad1144ef_360x.jpg?v=1649159262",
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6_6_2aa77e38-f652-47c0-9899-d26c1b8c8387_360x.jpg?v=1649159262",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2-5_1_16fad4ac-68a5-47d4-90a0-30fd285f2cbe_720x.jpg?v=1649159262",
-        "filter": "dryness-and-repair",
+        "filter": "exfoliators",
         "sort": "manual"
     },
     {
@@ -3037,7 +3039,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-3_2_360x.jpg?v=1655303198",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/unnamed_360x.jpg?v=1655303198",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_3_360x.jpg?v=1655303198",
-        "filter": "dryness-and-repair",
+        "filter": "exfoliators",
         "sort": "manual"
     },
     {
@@ -3196,7 +3198,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_14_360x.jpg?v=1645089859",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-2_5_360x.jpg?v=1645089859",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_14_360x.jpg?v=1645089859",
-        "filter": "dryness-and-repair",
+        "filter": "face-wash",
         "sort": "manual"
     },
     {
@@ -3665,7 +3667,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3_11_360x.webp?v=1655311025",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/LIPMASK_360x.jpg?v=1655311025",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3_11_360x.webp?v=1655311025",
-        "filter": "",
+        "filter": "lip-care",
         "sort": "best-selling"
     },
     {
@@ -3685,7 +3687,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4-Vit-C-Moisturizer-A_-Listing-NEW_8c98d559-c863-418e-8d3e-56479faa66e7_360x.jpg?v=1654320357",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/5-Vit-C-Moisturizer-A_-Listing-NEW_a68179f3-06d5-4df3-9791-53a5ec8344bb_360x.jpg?v=1654320357",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6-Vit-C-Moisturizer-A_-Listing-NEW_5e706b58-9156-4b32-aa27-7c2f55f24451_360x.jpg?v=1654320357",
-        "filter": "",
+        "filter": "normal-skin",
         "sort": "best-selling"
     },
     {
@@ -3705,7 +3707,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard4_8124019b-f414-4d3e-899b-e50251b37db1_360x.jpg?v=1649328432",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard5_2964dcb3-bb0e-4be6-880a-e229d50bf280_360x.jpg?v=1649328432",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_32f28fd1-371e-4840-b4a1-216f31a43318_720x.jpg?v=1649328433",
-        "filter": "",
+        "filter": "normal-skin",
         "sort": "best-selling"
     },
     {
@@ -3726,7 +3728,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard4_e209a800-a510-4ad4-9d1c-4c4d7ece3d77_360x.jpg?v=1649327378",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard5_9eff0c59-1a61-4230-b77f-dfc49d2bee5a_360x.jpg?v=1649327378",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_0f431e19-6282-4e3c-8987-51859bf1275a_720x.jpg?v=1649327378",
-        "filter": "",
+        "filter": "normal-skin",
         "sort": "best-selling"
     },
     {
@@ -3747,7 +3749,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard4_a30e905c-fe74-4f4f-8e69-f18deeccd22a_360x.jpg?v=1649324721",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard5_5e89fbc9-bfd8-4bfb-8d4f-cc3ff1197c2b_360x.jpg?v=1649324721",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_9ceca45a-10b4-40ed-b077-28971a3c3775_720x.jpg?v=1649324721",
-        "filter": "",
+        "filter": "normal-skin",
         "sort": "best-selling"
     },
     {
@@ -3768,7 +3770,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard4_738dd3bc-c487-467f-ac8e-e2584ef0c392_360x.jpg?v=1649327316",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard5_2abef539-86ff-42b8-bacc-30ce0a3e1448_360x.jpg?v=1649327315",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_3057d434-6349-42b8-aefe-1673c8d24265_720x.jpg?v=1649327316",
-        "filter": "",
+        "filter": "normal-skin",
         "sort": "best-selling"
     },
     {
@@ -3789,7 +3791,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2_360x.jpg?v=1649323846",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard3_360x.jpg?v=1649323846",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard4_360x.jpg?v=1649323846",
-        "filter": "",
+        "filter": "normal-skin",
         "sort": "best-selling"
     },
     {
@@ -3809,7 +3811,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4_5_360x.webp?v=1646477545",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-6_3_360x.jpg?v=1646477545",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4_5_360x.webp?v=1646477545",
-        "filter": "",
+        "filter": "normal-skin",
         "sort": "best-selling"
     },
     {
@@ -3830,7 +3832,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard4_845cb434-1434-4c78-b94e-d499f10bb0d9_360x.jpg?v=1649655908",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard5_ac78db03-0c0d-4376-9610-3f1b4a7f3e2d_360x.jpg?v=1649655908",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1-GreenClayListing_1_720x.jpg?v=1649655908",
-        "filter": "",
+        "filter": "normal-skin",
         "sort": "best-selling"
     },
     {
@@ -3849,7 +3851,7 @@ let data = [
         "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/vit-c-packaging-box-1_360x.jpg?v=1648088650",
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/D_K_Glow-c_Sleep_Mask_Bottle_final_CapChanged2_360x.jpg?v=1648088650",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2-6_360x.jpg?v=1648088650",
-        "filter": "",
+        "filter": "normal-skin",
         "sort": "best-selling"
     },
     {
@@ -3869,7 +3871,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_4_7a306ce8-6ac4-4704-9284-aa5264e20546_360x.jpg?v=1646476826",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_7_360x.webp?v=1646476826",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_7_360x.webp?v=1646476826",
-        "filter": "",
+        "filter": "normal-skin",
         "sort": "best-selling"
     },
     {
@@ -3889,7 +3891,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-4_2_610c50b1-5319-446c-b3e6-161c654063dd_360x.jpg?v=1646475700",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Combo-images6_360x.png?v=1646475700",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Combo-images5_1800x1800_3d220300-30e9-49cf-928a-cc9c06a32067_360x.png?v=1646475700",
-        "filter": "",
+        "filter": "normal-skin",
         "sort": "best-selling"
     },
     {
@@ -3909,7 +3911,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/vit-c-packaging-box-3_360x.jpg?v=1648088772",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/pinkclayhuman_18ed2ff0-8d46-4a89-b300-258bf13c32c5_360x.png?v=1648088774",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-7_3_4af2c161-611b-4168-b019-51183be44872_360x.jpg?v=1648088774",
-        "filter": "",
+        "filter": "normal-skin",
         "sort": "best-selling"
     },
     {
@@ -3929,7 +3931,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Product-texture-9_360x.jpg?v=1648088737",
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/sunscreen-packaging-box-3_50cfe7d8-0597-4419-b287-9503a60a1f7a_360x.jpg?v=1648088737",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-2_3_7231ae56-0a07-472c-92c1-7d34bc93cf57_360x.jpg?v=1648088737",
-        "filter": "",
+        "filter": "normal-skin",
         "sort": "best-selling"
     },
     {
@@ -3951,7 +3953,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/UnderarmCOmbo2_1800x1800_1_360x.jpg?v=1644862753",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/7_360x.png?v=1644862753",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/UnderarmCOmbo2_1800x1800_1_360x.jpg?v=1644862753",
-        "filter": "",
+        "filter": "normal-skin",
         "sort": "best-selling"
     },
     {
@@ -3971,7 +3973,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-7_3_360x.jpg?v=1648088593",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_14_360x.webp?v=1648088593",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3_12_360x.webp?v=1648088593",
-        "filter": "",
+        "filter": "oily-skin",
         "sort": "best-selling"
     },
     {
@@ -3989,7 +3991,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_8_360x.webp?v=1646476789",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-7_2_360x.jpg?v=1646476789",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_8_360x.webp?v=1646476789",
-        "filter": "",
+        "filter": "oily-skin",
         "sort": "best-selling"
     },
     {
@@ -4009,7 +4011,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-4_3_a77517b0-16db-48ba-8868-7ed7601dc364_360x.jpg?v=1648088728",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Product-texture-6_360x.jpg?v=1648088728",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/acne-packaging-box-1_360x.jpg?v=1648088728",
-        "filter": "",
+        "filter": "oily-skin",
         "sort": "best-selling"
     },
     {
@@ -4029,7 +4031,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Deep-pore-Listing-image2_1_360x.jpg?v=1646477731",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-17_360x.jpg?v=1646477731",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Deep-pore-Listing-image2_1_360x.jpg?v=1646477731",
-        "filter": "",
+        "filter": "oily-skin",
         "sort": "best-selling"
     },
     {
@@ -4050,7 +4052,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2-7_360x.jpg?v=1648088622",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Hydration-PACKAGING-BOX-4_360x.jpg?v=1648088622",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/15aad364376b4e0f80fc2ee8f235f8f7.thumbnail.0000000_360x.jpg?v=1612170586",
-        "filter": "",
+        "filter": "oily-skin",
         "sort": "best-selling"
     },
     {
@@ -4070,7 +4072,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2-Acne-Busting-Serum-Listing_360x.jpg?v=1655386224",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/ACNEBUSTING_720x.jpg?v=1655370921",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2-Acne-Busting-Serum-Listing_360x.jpg?v=1655386224",
-        "filter": "",
+        "filter": "oily-skin",
         "sort": "best-selling"
     },
     {
@@ -4088,7 +4090,7 @@ let data = [
         "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/exfo1_2_1800x1800_2b6df854-bbfa-4b48-9c87-b70c8509bc0e_360x.jpg?v=1629204893",
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/exfo2_2_1800x1800_481d471e-5862-4a95-945e-d0e817fe28b9_360x.jpg?v=1629204896",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/sleepingpeelingcombo2_360x.png?v=1610622018",
-        "filter": "",
+        "filter": "oily-skin",
         "sort": "best-selling"
     },
     {
@@ -4107,7 +4109,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-18_360x.jpg?v=1644916747",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_5_360x.webp?v=1644916747",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_4_360x.webp?v=1644916747",
-        "filter": "",
+        "filter": "oily-skin",
         "sort": "best-selling"
     },
     {
@@ -4127,7 +4129,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_10_360x.webp?v=1646476857",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-2_3_360x.jpg?v=1646476857",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_10_360x.webp?v=1646476857",
-        "filter": "",
+        "filter": "oily-skin",
         "sort": "best-selling"
     },
     {
@@ -4147,7 +4149,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/lip_360x.jpg?v=1644916305",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/29062021_Dot_Key-1812copy_360x.jpg?v=1644916305",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/lip_360x.jpg?v=1644916305",
-        "filter": "",
+        "filter": "lip-care",
         "sort": "best-selling"
     },
     {
@@ -4167,7 +4169,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6_2_360x.webp?v=1649159203",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3_10_360x.webp?v=1649159203",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/7_360x.webp?v=1649159203",
-        "filter": "",
+        "filter": "face-wash",
         "sort": "best-selling"
     },
     {
@@ -4187,7 +4189,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/3_3_360x.webp?v=1646475087",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_4_360x.webp?v=1646475087",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-10_360x.jpg?v=1646475087",
-        "filter": "",
+        "filter": "oily-skin",
         "sort": "best-selling"
     },
     {
@@ -4207,7 +4209,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/pigmentation-packaging-box-3UnderarmSerum_360x.jpg?v=1655310213",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-8_1_1_360x.jpg?v=1655310213",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/pigmentation-packaging-box-3UnderarmSerum_360x.jpg?v=1655310213",
-        "filter": "",
+        "filter": "postAcne",
         "sort": "best-selling"
     },
     {
@@ -4227,7 +4229,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/retinol-eye-cream-2_360x.png?v=1643394541",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2-3_4_360x.jpg?v=1643394541",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/retinol-eye-cream-2_360x.png?v=1643394541",
-        "filter": "",
+        "filter": "postAcne",
         "sort": "best-selling"
     },
     {
@@ -4248,7 +4250,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_11_360x.webp?v=1644493946",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_11_360x.webp?v=1644493946",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_11_360x.webp?v=1644493946",
-        "filter": "",
+        "filter": "postAcne",
         "sort": "best-selling"
     },
     {
@@ -4268,7 +4270,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/AHA-packaging-box-2_360x.jpg?v=1596007174",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/ahatoner_360x.jpg?v=1607507737",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/5_ahaexfoliatingserum_360x.jpg?v=1611030475",
-        "filter": "",
+        "filter": "postAcne",
         "sort": "best-selling"
     },
     {
@@ -4288,7 +4290,7 @@ let data = [
         "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/glowbooster-combo-2_360x.jpg?v=1655310101",
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/listing2_360x.jpg?v=1655310101",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-5_2_2957fa6c-bfd7-4692-a7ec-62783e1514fa_360x.jpg?v=1655310101",
-        "filter": "",
+        "filter": "postAcne",
         "sort": "best-selling"
     },
     {
@@ -4309,7 +4311,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/sunscreen-packaging-box-6_360x.jpg?v=1649159104",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2_4_4c51d6ed-de17-40a5-ae4f-b54c8156e71b_360x.jpg?v=1649159104",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/sunscreen-packaging-box-6_360x.jpg?v=1649159104",
-        "filter": "",
+        "filter": "postAcne",
         "sort": "best-selling"
     },
     {
@@ -4330,7 +4332,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6_8_360x.jpg?v=1650465564",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/7_4_360x.jpg?v=1650465564",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/8_2_360x.jpg?v=1650465564",
-        "filter": "",
+        "filter": "postAcne",
         "sort": "best-selling"
     },
     {
@@ -4350,7 +4352,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-3_4_ae587533-265c-4e47-84bf-81c14bbc6539_360x.jpg?v=1646476775",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/GlowAccelerator_360x.jpg?v=1646476775",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/glowacceleratorcleansingsolution_360x.png?v=1646476775",
-        "filter": "",
+        "filter": "postAcne",
         "sort": "best-selling"
     },
     {
@@ -4369,7 +4371,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/chocolatemasktexture_360x.jpg?v=1648088715",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/website-1080-X-1080_360x.jpg?v=1648088715",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_3_40c5e702-0b60-49a1-abb2-812d62d223c0_360x.jpg?v=1648088715",
-        "filter": "",
+        "filter": "postAcne",
         "sort": "best-selling"
     },
     {
@@ -4388,7 +4390,7 @@ let data = [
         "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Hydration-PACKAGING-BOX-2_360x.jpg?v=1596008000",
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/67c71cd6722a4c2f93ecb2dcf8ce9c5e.thumbnail.0000000_360x.jpg?v=1612169253",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/HydraEssentialToningWater_360x.jpg?v=1610017074",
-        "filter": "",
+        "filter": "postAcne",
         "sort": "best-selling"
     },
     {
@@ -4408,7 +4410,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Age-defence-packaging-box-1_540x.jpg?v=1648088661",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/timereversesleepmask_540x.jpg?v=1648088661",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/nightwe_540x.png?v=1648088661",
-        "filter": "",
+        "filter": "postAcne",
         "sort": "best-selling"
     },
     {
@@ -4427,7 +4429,7 @@ let data = [
         "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/D_K_100ml_Underarm_Detox_bottle_final_CapChanged2_360x.jpg?v=1648088762",
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/pigmentation-packaging-box-2_360x.jpg?v=1648088762",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-5_3_360x.jpg?v=1648088762",
-        "filter": "",
+        "filter": "postAcne",
         "sort": "best-selling"
     },
     {
@@ -4447,7 +4449,7 @@ let data = [
         "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Lip-scrub-Image-2_360x.jpg?v=1646934795",
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Lipscrub_360x.jpg?v=1646934795",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_4_360x.jpg?v=1646934795",
-        "filter": "",
+        "filter": "lip-care",
         "sort": "best-selling"
     },
     {
@@ -4483,7 +4485,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard4_936cb3f6-61b1-4295-91f6-83ee9cb454b7_360x.jpg?v=1649326809",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard5_865a8cb0-3aef-4c48-879c-a59ee47340f3_360x.jpg?v=1649326808",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_16adaf35-a138-4989-a2f0-e23e0dcd4578_720x.jpg?v=1649326809",
-        "filter": "",
+        "filter": "postAcne",
         "sort": "best-selling"
     },
     {
@@ -4499,7 +4501,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-3_4_360x.jpg?v=1655310547",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/lemon-lotion_360x.jpg?v=1655310547",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_19_360x.jpg?v=1655310547",
-        "filter": "",
+        "filter": "postAcne",
         "sort": "best-selling"
     },
     {
@@ -4515,11 +4517,11 @@ let data = [
         Maintains skin's moisture barrier to make the skin softer and plumper.
         Reduces skin dryness and dullness, giving it a healthy glow.
         FREE Hydra Essential Toner.`,
-        "simg2": "",
-        "simg3": "",
-        "simg4": "",
+        "simg2": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/hydration-essential_360x.jpg?v=1610086411",
+        "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/hydration1-11_1800x1800_67d06763-bd26-42ae-bbc3-42f95ff9b488_360x.jpg?v=1629205660",
+        "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/hydration2-11_1800x1800_377f5ccf-2f88-45c0-8123-aa37a428d8ee_360x.jpg?v=1629205660",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/09032021_Dot_Key-11814copy_360x.jpg?v=1625554418",
-        "filter": "",
+        "filter": "postAcne",
         "sort": "best-selling"
     },
     {
@@ -4539,7 +4541,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/day-night_1800x1800_1_360x.png?v=1628595712",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/day-night_360x.jpg?v=1610086311",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/DaynIghtCombo2_1800x1800_d1b2b0dc-527b-4d18-adeb-dea166817e6e_360x.jpg?v=1629204803",
-        "filter": "",
+        "filter": "proneacne",
         "sort": "best-selling"
     },
     {
@@ -4562,7 +4564,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard4_05d36e6f-438c-44e8-b5e7-22aa16a38306_360x.jpg?v=1649326624",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard5_bb1f2ee5-84b3-45ae-ad58-d9b8ae378016_360x.jpg?v=1649326624",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_c062e82b-d61b-4fce-aff4-4cd2f46c6995_720x.jpg?v=1649326625",
-        "filter": "",
+        "filter": "face-wash",
         "sort": "best-selling"
     },
     {
@@ -4582,7 +4584,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/BootyPolish_1b3a03e0-3543-4c67-99b1-b4b68947e565_360x.jpg?v=1644862499",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/pigmentation-packaging-box-1_360x.jpg?v=1644862499",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/bootypolish_360x.jpg?v=1644862499",
-        "filter": "",
+        "filter": "proneacne",
         "sort": "best-selling"
     },
     {
@@ -4602,7 +4604,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard4_db87ede7-8f9a-4757-b071-62d7ec806ed5_360x.jpg?v=1655302883",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard5_251294df-7d3b-4aa6-a847-9091206c682e_360x.jpg?v=1655302883",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard6_360x.jpg?v=1655302883",
-        "filter": "",
+        "filter": "haircare",
         "sort": "best-selling"
     },
     {
@@ -4618,7 +4620,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4_1_360x.png?v=1644862556",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/unnamed_8_360x.png?v=1644862556",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6_1_360x.png?v=1644862556",
-        "filter": "",
+        "filter": "proneacne",
         "sort": "best-selling"
     },
     {
@@ -4637,7 +4639,7 @@ let data = [
         "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Swim-bottle-1_360x.jpg?v=1625468185",
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/swim-packaging-box-5_360x.jpg?v=1625468185",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/PreSwimSkinHair50ml_360x.jpg?v=1610018447",
-        "filter": "",
+        "filter": "haircare",
         "sort": "best-selling"
     },
     {
@@ -4653,7 +4655,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-3_2_360x.jpg?v=1655303198",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/unnamed_360x.jpg?v=1655303198",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_3_360x.jpg?v=1655303198",
-        "filter": "",
+        "filter": "proneacne",
         "sort": "best-selling"
     },
     {
@@ -4675,7 +4677,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard4_a4fb1b7d-82be-496a-987f-c0a99525e6fd_360x.jpg?v=1649324874",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard5_77eac8a4-7a47-45c7-9993-87ee9db51610_360x.jpg?v=1649324874",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_fbc8a03b-7baf-4bad-b5af-1197213a128e_720x.jpg?v=1649324873",
-        "filter": "",
+        "filter": "proneacne",
         "sort": "best-selling"
     },
     {
@@ -4715,7 +4717,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/whentouse_360x.jpg?v=1646934817",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/bestsuitedfor_360x.jpg?v=1646934817",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-4_4_85b8fcfc-89a1-49d0-bc95-e4d49dfd6619_360x.jpg?v=1646934817",
-        "filter": "",
+        "filter": "lip-care",
         "sort": "best-selling"
     },
     {
@@ -4827,7 +4829,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/10_f7638dac-1eb3-4c37-b435-30cc1c55171c_360x.png?v=1655303151",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/5_dfcfe8eb-5afd-471b-a112-d8ac97a14c4a_360x.jpg?v=1655303151",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/7_48bf1f59-9e6b-4ca5-9910-1fad1e55d0c2_360x.png?v=1655303151",
-        "filter": "",
+        "filter": "haircare",
         "sort": "best-selling"
     },
     {
@@ -4847,7 +4849,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-9_1_360x.jpg?v=1655310238",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_360x.jpg?v=1655310238",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2_3b2fc99c-c2e5-40cd-a011-6906388a18e8_360x.jpg?v=1655310238",
-        "filter": "",
+        "filter": "lip-care",
         "sort": "best-selling"
     },
     {
@@ -4868,7 +4870,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/5_d655807d-21d5-420d-811e-97e438b05c0a_360x.jpg?v=1655310462",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6_e0954878-0f58-4db7-a78b-a83560c52bcc_360x.png?v=1655310462",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/7_fd987e16-34c6-4b8f-aac9-91aa7f8222a0_360x.png?v=1655310462",
-        "filter": "",
+        "filter": "haircare",
         "sort": "best-selling"
     },
     {
@@ -4929,7 +4931,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4_16_360x.jpg?v=1652588012",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/5_10_360x.jpg?v=1652588012",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6_9_360x.jpg?v=1652588012",
-        "filter": "",
+        "filter": "cleanse-watermelon-super-glow-facial-gel-cleanser",
         "sort": "best-selling"
     },
     {
@@ -4949,7 +4951,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/5_0bba455c-fc97-45c2-bde7-d895231f5d53_360x.png?v=1655310429",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/7_7ece883b-e931-4597-b19c-f99adae8b91a_360x.png?v=1655310429",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/8_4793ec55-604d-4a0d-a0a0-7f4bc24c5a4a_360x.png?v=1655310429",
-        "filter": "",
+        "filter": "haircare",
         "sort": "best-selling"
     },
     {
@@ -5013,7 +5015,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/5_32793418-650d-4e11-8a23-06afacda0869_360x.jpg?v=1655310406",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6_8748a1ef-9a27-46be-99bd-5f6039365999_360x.png?v=1655310406",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/7_c904e689-7eb0-4e0c-8eeb-350a25cf3ce0_360x.png?v=1655310406",
-        "filter": "",
+        "filter": "haircare",
         "sort": "best-selling"
     },
     {
@@ -5033,7 +5035,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/5_128bf7fd-8526-4039-b00c-1d6d5e9edd18_360x.jpg?v=1655303107",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6_80867571-6fef-4035-9404-d62dc7c7e73e_360x.png?v=1655303107",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/7_fd8550bb-12b4-43b2-ab4e-b110e5166036_360x.png?v=1655303107",
-        "filter": "",
+        "filter": "haircare",
         "sort": "best-selling"
     },
     {
@@ -5094,7 +5096,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/5_1a86fcd2-6c5f-41a6-be6a-df462438e575_360x.jpg?v=1655310503",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6_45679a61-73b2-4de5-9e96-ec2331569ada_360x.png?v=1655310503",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/7_44b523ec-f6aa-414c-9e56-c8701c5492f3_360x.png?v=1655310503",
-        "filter": "",
+        "filter": "haircare",
         "sort": "best-selling"
     },
     {
@@ -5114,7 +5116,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2-2_360x.jpg?v=1637220734",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2-4_360x.jpg?v=1637220734",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2-2_360x.jpg?v=1637220734",
-        "filter": "",
+        "filter": "cleanse-watermelon-super-glow-facial-gel-cleanser",
         "sort": "best-selling"
     },
     {
@@ -5135,7 +5137,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4_16_6aa3282a-91e4-4ee8-9be4-d64a5c7d2fc9_360x.jpg?v=1655355390",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/5_10_1a76d751-58bb-4767-ad8b-f2750e3064cc_360x.jpg?v=1655355390",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/6_9_6f222141-72fe-4e0d-ad3a-c934940c61d6_360x.jpg?v=1655355390",
-        "filter": "",
+        "filter": "cleanse-watermelon-super-glow-facial-gel-cleanser",
         "sort": "best-selling"
     },
     {
@@ -5153,7 +5155,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1.1_be7805ae-55d5-4454-89f0-95ae090f34bf_360x.jpg?v=1645767431",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_6107c6a9-77b5-45c1-b841-8f2d4a82aaf9_360x.jpg?v=1645767431",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1.1_be7805ae-55d5-4454-89f0-95ae090f34bf_360x.jpg?v=1645767431",
-        "filter": "",
+        "filter": "face-wash",
         "sort": "best-selling"
     },
     {
@@ -5194,7 +5196,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Website6_360x.jpg?v=1655128962",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Website7_360x.jpg?v=1655128953",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Website5_1_360x.jpg?v=1655128962",
-        "filter": "",
+        "filter": "sunscreen",
         "sort": "best-selling"
     },
     {
@@ -5246,7 +5248,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2a_360x.jpg?v=1639046585",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2_0b03915d-fd45-4f70-b766-e80d87e99975_360x.jpg?v=1639046585",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/2a_360x.jpg?v=1639046585",
-        "filter": "",
+        "filter": "lip-care",
         "sort": "best-selling"
     },
     {
@@ -5265,7 +5267,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_14_360x.jpg?v=1645089859",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-2_5_360x.jpg?v=1645089859",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_14_360x.jpg?v=1645089859",
-        "filter": "",
+        "filter": "face-wash",
         "sort": "best-selling"
     },
     {
@@ -5305,7 +5307,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2_1_360x.jpg?v=1637227356",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-2_1917a164-fc0c-4e59-8f16-2d0125e55ba5_360x.jpg?v=1637227355",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard2_1_360x.jpg?v=1637227356",
-        "filter": "",
+        "filter": "cleanse-watermelon-super-glow-facial-gel-cleanser",
         "sort": "best-selling"
     },
     {
@@ -5344,7 +5346,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4.4_360x.jpg?v=1646054218",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4_0805e21b-6e8f-4afb-8efb-4736d3995fc3_720x.jpg?v=1646054218",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/4.4_360x.jpg?v=1646054218",
-        "filter": "",
+        "filter": "face-wash",
         "sort": "best-selling"
     },
     {
@@ -5362,7 +5364,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_26_360x.jpg?v=1651312321",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-2_c818942b-ef91-42a5-ae74-d9dacbc578d4_360x.jpg?v=1651312321",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1_26_360x.jpg?v=1651312321",
-        "filter": "",
+        "filter": "cleanse-watermelon-super-glow-facial-gel-cleanser",
         "sort": "best-selling"
     },
     {
@@ -5380,7 +5382,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1a_4_360x.jpg?v=1654086163",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1_12_360x.jpg?v=1654086162",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1a_4_360x.jpg?v=1654086163",
-        "filter": "",
+        "filter": "face-wash",
         "sort": "best-selling"
     },
     {
@@ -5399,7 +5401,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/cica2_360x.jpg?v=1647430629",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/cica1_720x.jpg?v=1647430628",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/cica2_360x.jpg?v=1647430629",
-        "filter": "",
+        "filter": "face-wash",
         "sort": "best-selling"
     },
     {
@@ -5419,7 +5421,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/ACNE_1_1_360x.jpg?v=1655193977",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/ACNE2_360x.jpg?v=1655193977",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/ACNE3_f6e0adfd-7d72-452b-9d3d-969879794ae6_360x.jpg?v=1655193977",
-        "filter": "",
+        "filter": "face-wash",
         "sort": "best-selling"
     },
     {
@@ -5478,7 +5480,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/W1_1_360x.jpg?v=1655212204",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/W2_dfc91844-33b1-44a8-82b4-31bfec206ca0_360x.jpg?v=1655212206",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/W3_360x.jpg?v=1655212206",
-        "filter": "",
+        "filter": "face-wash",
         "sort": "best-selling"
     },
     {
@@ -5555,7 +5557,7 @@ let data = [
         "simg3": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Swim-bottle-1_360x.jpg?v=1625468185",
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/swim-packaging-box-5_360x.jpg?v=1625468185",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/PreSwimSkinHair50ml_360x.jpg?v=1610018447",
-        "filter": "",
+        "filter": "haircare",
         "sort": "created-ascending"
     },
     {
@@ -5596,7 +5598,7 @@ let data = [
         "simg4": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/sunscreen-packaging-box-6_360x.jpg?v=1655309841",
         "simg5": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-15_360x.jpg?v=1655309841",
         "simg6": "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/sunscreen-packaging-box-6_360x.jpg?v=1655309841",
-        "filter": "",
+        "filter": "sunscreen",
         "sort": "created-ascending"
     },
     {
