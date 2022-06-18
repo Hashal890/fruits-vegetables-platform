@@ -94,13 +94,18 @@ document.querySelector("#RBGimg").append(limg);
     cart_array.push(prd);
     console.log(cart_array);
     localStorage.setItem("cartproduct",JSON.stringify(cart_array))
+    alert("product added to cart")
+    
   }
 
 
-  // document.querySelector("#RSbutton").addEventListener("click",function(){
-  //   product(prd)
-  // })
+  document.querySelector("#RSbutton").addEventListener("click",function(){
+    product(prd)
+  })
   // function product(prd){
+  //   console.log(prd)
   //   cart_array.push(prd);
+  //   console.log(cart_array);
   //   localStorage.setItem("cartproduct",JSON.stringify(cart_array))
+  //   alert("product added to cart")
   // }
