@@ -16,19 +16,7 @@ In this project we used following tech stacks:-
 - [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 
-### Authors
-
-#### Connect on Github:-
-
-- [Harshal Pardeshi](https://github.com/Hashal890)
-- [Rohit Mourya](https://github.com/MrRohitMI)
-- [Gaurav Mishra](https://github.com/GauravMishra28)
-- [Udit Varshney](https://github.com/Uditshetty)
-- [Mohammad Momin](https://github.com/Momin-Mohammad)
-- [Swapnil Gote](https://github.com/Swwapnil123)
-
-
-#### Connect on LinkdIn:-
+### Connect with authors
 
 - [Harshal Pardeshi](https://www.linkedin.com/in/harshalpardeshi/)
 - [Rohit Mourya](https://www.linkedin.com/in/rohit-mourya/)
