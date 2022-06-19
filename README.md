@@ -26,7 +26,7 @@ In this project we used following tech stacks:-
 
 ### Connect with authors
 
-- [Harshal Pardeshi](https://www.linkedin.com/in/harshalpardeshi/) => Backend of website by using Webscrapping,
+- [Harshal Pardeshi](https://www.linkedin.com/in/harshalpardeshi/) => Backend of website,
 - [Rohit Mourya](https://www.linkedin.com/in/rohit-mourya/) => Product Page,
 - [Gaurav Mishra]() => All Carousels in website,
 - [Udit Varshney](https://www.linkedin.com/in/udit-varshney-ba678121b/) => Login, Signup, Navbar, Footer Checkout Pages,
