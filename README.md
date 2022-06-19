@@ -32,3 +32,7 @@ In this project we used following tech stacks:-
 - [Gaurav Mishra](https://www.linkedin.com/in/gaurav-mishra-435814a8) => All Carousels in website,
 - [Rohit Mourya](https://www.linkedin.com/in/rohit-mourya/) => Product Page,
 - [Mohammad Momin](https://www.linkedin.com/in/momin-mohammad-102304171/) => Cart Page.
+
+### Feedback
+
+If you have any feedback or queries, please reach out to us at pardeshiharshal90@gmail.com.
