@@ -27,11 +27,11 @@ In this project we used following tech stacks:-
 ### Connect with authors
 
 - [Harshal Pardeshi](https://www.linkedin.com/in/harshalpardeshi/) => Backend of website,
-- [Udit Varshney](https://www.linkedin.com/in/udit-varshney-ba678121b/) => Login, Signup, Navbar, Footer Checkout Pages,
+- [Udit Varshney](https://www.linkedin.com/in/udit-varshney-ba678121b/) => Login, Signup, Navbar & Footer Pages,
 - [Swapnil Gote]() => Homepage,
 - [Gaurav Mishra](https://www.linkedin.com/in/gaurav-mishra-435814a8) => All Carousels in website,
 - [Rohit Mourya](https://www.linkedin.com/in/rohit-mourya/) => Product Page,
-- [Mohammad Momin](https://www.linkedin.com/in/momin-mohammad-102304171/) => Cart Page.
+- [Mohammad Momin](https://www.linkedin.com/in/momin-mohammad-102304171/) => Cart & Checkout Pages.
 
 ### Feedback
 
