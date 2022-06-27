@@ -24,11 +24,6 @@ In this project we used following tech stacks:-
 - [Jquery](https://jquery.com/)
 
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
 ### Connect with authors
 
 - [Harshal Pardeshi](https://www.linkedin.com/in/harshalpardeshi/) => Backend of website,
