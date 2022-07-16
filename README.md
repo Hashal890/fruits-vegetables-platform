@@ -27,6 +27,7 @@ In this project we used following tech stacks:-
 
 ### Connect with authors
 
+
 - [Harshal Pardeshi](https://www.linkedin.com/in/harshalpardeshi/) => Backend of website,
 - [Udit Varshney](https://www.linkedin.com/in/udit-varshney-ba678121b/) => Login, Signup, Navbar & Footer Pages,
 - [Swapnil Gote]() => Homepage,
