@@ -14,7 +14,6 @@ Look out our website:- https://dotandkeyclone.netlify.app/
 
 ### Tech Stack
 
-
 In this project we used following tech stacks:- 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
