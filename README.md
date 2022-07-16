@@ -5,7 +5,6 @@ Look out our website:- https://dotandkeyclone.netlify.app/
 
 ### Features
 
-
 - Sort & filter by many options on product page.
 - Get a smooth experience in payment, login & signup process.
 - Manual and automatic carousels.
