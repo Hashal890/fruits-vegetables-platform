@@ -44,7 +44,7 @@ In this project we used following tech stacks:-
 
 ## Connect with authors
 
-- [Harshal Pardeshi](https://www.linkedin.com/in/harshalpardeshi/) => Backend of website,
+- [Harshal Pardeshi](https://www.linkedin.com/in/harshalpardeshi/) (Team Lead) => Backend of website,
 - [Udit Varshney](https://www.linkedin.com/in/udit-varshney-ba678121b/) => Login, Signup, Navbar & Footer Pages,
 - [Swapnil Gote]() => Homepage,
 - [Gaurav Mishra](https://www.linkedin.com/in/gaurav-mishra-435814a8) => All Carousels in website,
