@@ -330,7 +330,7 @@ img {
 }
 
 .custom-slider .slick-center {
-  transform: scale(1.05);
+  transform: scale(1.01);
 }
 
 /* height: 100px; */
@@ -370,7 +370,7 @@ img {
 }
 
 .womenslider .slick-center img {
-  transform: scale(1.1);
+  transform: scale(1.01);
 }
 
 .ingredients {
@@ -382,7 +382,7 @@ img {
 }
 
 .ingredients div {
-  height: 650px;
+  height: 500px;
   width: 100%;
   border-radius: 25px;
   /* border: 1px solid red; */
@@ -390,14 +390,14 @@ img {
 }
 
 .ingredients div img {
-  width: 80%;
-  height: 90%;
+  width: 90%;
+  height: 80%;
   border-radius: 25px;
   margin: auto;
 }
 
 .ingredients .slick-center img {
-  transform: scale(1.1);
+  transform: scale(1.01);
 }
 
 .single-item {
